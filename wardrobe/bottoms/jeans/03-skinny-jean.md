@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Naturally leg-lengthening on a shorter frame simply by removing fabric volume — no proportion trick required, which makes it one of the lowest-risk silhouettes in the system.
 - Proportion notes: hem at or just below the ankle bone. Cropping too short reverses the leg-lengthening effect.
 - Comfort priority: the fit sits close to skin at knee and calf for hours, so recovery stretch is the whole game here — this is the one silhouette where comfort lives or dies on fabric recovery, not fit looseness.

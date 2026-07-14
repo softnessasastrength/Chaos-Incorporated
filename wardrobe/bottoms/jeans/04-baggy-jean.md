@@ -5,7 +5,7 @@
 **Priority:** Experimental
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The riskiest volume decision in the system — needs an aggressive exit strategy: high rise, cropped/cuffed hem, and a visually defined waist (belt) so the eye reads "waist-in, leg-out" rather than "shapeless."
 - Proportion notes: crop at or just above the ankle, cuff once for a clean finish. Full-length baggy on this frame reads as borrowed clothing, not styled volume.
 - Comfort priority: the most all-day-comfortable leg possible by design — nothing should touch the leg tightly anywhere below the waistband.

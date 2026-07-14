@@ -5,7 +5,7 @@
 **Priority:** Experimental
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The gathered/cinched paperbag waist visually defines the waist very precisely — a strong tool for a shorter torso since it creates a clear horizontal break point at the natural waist.
 - Proportion notes: keep the gather subtle rather than voluminous — too much fabric bunched at the waist can add bulk on a smaller frame; length at mid-thigh.
 - Comfort priority: belted closure needs to be adjustable and non-digging; test the belt tightness needed to hold the gather vs. what's comfortable seated.

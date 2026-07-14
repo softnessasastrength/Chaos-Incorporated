@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - A knee-high boot creates a continuous vertical line from ankle to knee, genuinely leg-lengthening on a shorter frame in a way an ankle boot can't match — but the shaft must fit close to the calf, since a loose/slouchy shaft on a smaller calf circumference collapses the vertical line it's supposed to create.
 - Proportion notes: heel height 1.5–2.5" (moderate, same "worn often" logic as the ankle boot); shaft should end at or just below the knee, not mid-calf, which would create an extra horizontal break and visually shorten the leg.
 - Comfort priority: cushioned footbed and a stable heel base, same standard as the ankle boot — this is meant to be a real-rotation shoe, not an occasion piece.

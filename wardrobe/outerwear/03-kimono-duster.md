@@ -5,8 +5,8 @@
 **Priority:** High
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
-- An open, unstructured layer is naturally forgiving on a shorter frame as long as it avoids floor length — a full-length duster on a 5'3" frame will drag or pool, so hem should hit mid-calf at the longest, ideally closer to knee length.
+## Why It Works for Her Frame (64")
+- An open, unstructured layer is naturally forgiving on a shorter frame as long as it avoids floor length — a full-length duster on a 5'4" frame will drag or pool, so hem should hit mid-calf at the longest, ideally closer to knee length.
 - Proportion notes: sleeve should be 3/4-length or short enough to push up — a full kimono sleeve is one of the highest-risk pieces in the whole system for burying the hand and wrist entirely.
 - Comfort priority: lightweight, flowing fabric — this should feel like almost nothing, an airy layer, not a heavy coat.
 

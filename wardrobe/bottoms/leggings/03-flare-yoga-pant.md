@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Studio-to-street crossover — the flare from the knee mimics the flare-jean leg-lengthening effect while keeping legging-level comfort.
 - Proportion notes: petite inseam critical here since the flare adds visual length that becomes excessive if the hem is too long.
 - Comfort priority: fitted through hip/thigh (like a legging), open/relaxed from the knee down — no compression at the calf.

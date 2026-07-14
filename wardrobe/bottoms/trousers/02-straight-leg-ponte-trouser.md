@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Straight leg reads clean without adding width, same logic as the straight-leg jean — the safest volume decision at this height.
 - Proportion notes: hem at the top of the shoe, mid-to-high rise, same break point the rest of the bottoms system uses.
 - Comfort priority: this is explicitly the "wears like leggings, looks like trousers" piece — the entire reason it exists in the system is to close the comfort gap the tailored wide-leg trouser can't fully close on a low-effort day that still needs to look put-together.

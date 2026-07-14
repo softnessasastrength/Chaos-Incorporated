@@ -5,14 +5,14 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - High rise is non-negotiable here — it's the only thing preventing the leg volume from visually shortening both torso and legs at once.
-- Proportion notes: crop to ankle-length or just-below-ankle. A full-length wide leg on a 5'3" frame reads as being swallowed; a cropped one reads as intentional.
+- Proportion notes: crop to ankle-length or just-below-ankle. A full-length wide leg on a 5'4" frame reads as being swallowed; a cropped one reads as intentional.
 - Comfort priority: the leg itself touches nothing, so this is a genuinely breezy, unrestricted fit — the waistband is where all the fit-precision work needs to happen.
 
 ## Technical Specs
 - Rise: High (11–12" front rise)
-- Inseam / length: 26–27" cropped (ankle-length on a 5'3" frame) — do not order a standard 30–32" expecting to just "not hem it"
+- Inseam / length: 26–27" cropped (ankle-length on a 5'4" frame) — do not order a standard 30–32" expecting to just "not hem it"
 - Waist range / sizing notes: True to waist; substantial waistband (1.5"+) to prevent back-gap
 - Stretch level: 1–2% elastane, or rigid 100% cotton if the cut is already generous through the hip
 - Fabric weight: 12–13oz

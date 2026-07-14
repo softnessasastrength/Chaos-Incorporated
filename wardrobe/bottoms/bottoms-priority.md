@@ -23,4 +23,4 @@ Ranked using the tiers in [`../priority-system.md`](../priority-system.md). This
 
 ## Cross-Category Rule
 
-Every bottom in this system must independently satisfy the manifesto's fit rule for a 63" frame: **rise before volume, inseam documented, no "figure it out" hemming.** No category gets a pass on this just because it's lower priority.
+Every bottom in this system must independently satisfy the manifesto's fit rule for a 64" frame: **rise before volume, inseam documented, no "figure it out" hemming.** No category gets a pass on this just because it's lower priority.

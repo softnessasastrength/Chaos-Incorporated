@@ -5,7 +5,7 @@
 **Priority:** Experimental
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The hardest silhouette in the whole jeans system to get right at this height — thigh volume needs to be proportionate to the actual frame, not borrowed at full scale from a taller sample size.
 - Proportion notes: the ankle taper is what saves this cut — it reintroduces a defined leg line at the bottom after all the volume through the thigh. Source a size run cut for petite proportions where possible rather than just sizing down a standard cut.
 - Comfort priority: excellent all-day comfort through the thigh (nothing touches the leg there at all); the one contact point to watch is the ankle taper for tightness.

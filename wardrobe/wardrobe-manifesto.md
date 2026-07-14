@@ -18,12 +18,12 @@ That's the model for every garment in this system:
 
 ## II. The Frame We're Designing For
 
-Every fit decision in this system is engineered around a **63" (5'3") adult frame.** This is a proportion problem, not an afterthought, and it drives real technical decisions:
+Every fit decision in this system is engineered around a **64" (5'4") adult frame.** This is a proportion problem, not an afterthought, and it drives real technical decisions:
 
 - **Rise matters more than it does on a taller frame.** A high or mid-rise sits at the natural waist and keeps the leg line long; low-rise on a shorter torso reads as cutting the body in half and is used sparingly and deliberately, not by default.
 - **Inseam length is a first-class spec, not a rounding error.** Every bottoms item in this system documents inseam and notes whether it needs hemming/cropping — "one size, unhemmed, figure it out" is not acceptable at Chaos Incorporated.
 - **Volume needs an exit strategy.** Wide-leg, baggy, and balloon silhouettes are fully welcome, but each one must specify how it avoids swallowing a shorter frame (cropped length, cinched waist, tucked-in proportion, heel height assumption).
-- **Fabric weight is chosen for drape at this scale.** Heavy, stiff fabric behaves differently at 5'3" than at 5'9" — it moves less, structures the fold-line closer to the body, and can add visual bulk faster. Every fabric recommendation accounts for this.
+- **Fabric weight is chosen for drape at this scale.** Heavy, stiff fabric behaves differently at 5'4" than at 5'9" — it moves less, structures the fold-line closer to the body, and can add visual bulk faster. Every fabric recommendation accounts for this.
 - **Comfort is non-negotiable and specific, not vibes-based.** "Comfortable" isn't a checkbox — every item documents stretch %, fabric hand-feel, and where on the body it needs to move freely (waistband, crotch curve, knee, hem).
 
 ## III. Design Principles (the actual rules)
@@ -50,7 +50,7 @@ See [`priority-system.md`](priority-system.md) for the full rubric. Short versio
 ## V. What Every Item Must Document
 
 See [`item-template.md`](item-template.md). At minimum, every entry answers:
-- Why it works for a 63" frame specifically (not generic sizing advice)
+- Why it works for a 64" frame specifically (not generic sizing advice)
 - Technical measurements (rise, inseam, stretch %, fabric weight)
 - Fabric composition and skin-feel
 - Colorways

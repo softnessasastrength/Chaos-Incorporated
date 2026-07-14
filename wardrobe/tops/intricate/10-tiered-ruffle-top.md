@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Tiered ruffle volume needs the same "exit strategy" the manifesto requires of any romantic volume at this height — keep the tiers cropped to a body-length top (not tunic-length), and fit the bodice/shoulder closely so ruffle volume doesn't start until below the bust, keeping the shoulder line narrow even as the hem gets fuller.
 - Proportion notes: body length hits high hip max, ideally shorter (crop-adjacent), so the tiered volume doesn't add length to an already-shorter torso.
 - Comfort priority: ruffle tiers add some weight/structure at the hem — confirm the fabric is lightweight enough that the tiers don't pull on the shoulder seam over a full day of wear.

@@ -5,7 +5,7 @@
 **Priority:** Experimental
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Ribbed knit texture adds visual interest while the flare leg does the same leg-lengthening job as item 03 — the rib knit reads dressier, making this the "going out" version of the flare yoga pant.
 - Proportion notes: petite inseam essential; ribbed knit is less forgiving of length errors than smooth jersey since the texture draws the eye.
 - Comfort priority: ribbed knit has less stretch recovery than smooth 4-way stretch fabric — check fit carefully, as ribbed fabric can loosen out over a single wear.

@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Same "high rise + crop" exit strategy as wide-leg denim, applied to a soft knit — otherwise carries the same risk of swallowing a shorter frame.
 - Proportion notes: crop to ankle-length; a full-length wide-leg knit pant will pool on the floor at this height.
 - Comfort priority: maximum comfort category — nothing touches the leg below the hip.

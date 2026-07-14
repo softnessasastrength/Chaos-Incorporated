@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Same fit logic as the basic seamless legging (item 01) with an added interior brushed layer — proportion rules identical, petite inseam still required.
 - Proportion notes: fleece lining adds slight bulk, confirm the petite length still hits correctly at the ankle after accounting for the thicker fabric.
 - Comfort priority: built for warmth without sacrificing the "second skin" comfort standard of the base legging.

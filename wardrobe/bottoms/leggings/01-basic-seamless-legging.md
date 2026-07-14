@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The comfort-core foundation of the whole wardrobe — high-rise, full-length, no seams to dig in anywhere on the body.
 - Proportion notes: full length should hit at the ankle bone exactly; petite inseam (usually 25–27") avoids bunching at the ankle that a standard length would cause.
 - Comfort priority: this is the single most-worn item in the system on low-effort days — zero tolerance for waistband roll-down or seam irritation.

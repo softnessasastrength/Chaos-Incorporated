@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - A fitted (not tight) crew neck tee is the most universally pairing-flexible top in the system — works tucked into high-rise bottoms without adding bulk at the waist.
 - Proportion notes: body length should hit at the high hip when untucked, short enough to tuck cleanly when needed.
 - Comfort priority: soft, breathable cotton with a bit of stretch for movement; no stiff seams at the shoulder or neckline.

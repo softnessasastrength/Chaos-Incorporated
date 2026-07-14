@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - A vest removes the sleeve-length problem entirely — no sleeve to hem or risk covering the wrist, making it the lowest-risk outerwear piece in the system for guaranteed ring visibility.
 - Proportion notes: hip-length max, fitted through the shoulder/armhole so it doesn't add bulk at the widest point of a smaller frame.
 - Comfort priority: lightweight synthetic or down-alternative fill so it adds warmth without bulk or stiffness.

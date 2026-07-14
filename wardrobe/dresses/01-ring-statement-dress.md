@@ -5,7 +5,7 @@
 **Priority:** Experimental (Phase 3 Statement)
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - This is the single piece in the entire system built explicitly to showcase the ring — a fitted or semi-fitted silhouette with a 3/4 or cropped sleeve that keeps the wrist and hand visible through normal movement (reaching, resting, gesturing), rather than as an accident of length like other pieces.
 - Proportion notes: knee-length max, fitted through the bodice and waist with a defined waistline — a shorter, fitted length is more leg-lengthening than any longer or looser silhouette at this height. This is the one piece in the system allowed to prioritize "ring-showcase" fit logic above the usual comfort-first hierarchy, precisely because it's a rare-occasion piece, not a weekly-wear one.
 - Comfort priority: still non-negotiable per the manifesto — fitted does not mean restrictive. Stretch fabric and a structured-but-flexible bodice (boning or a built-in liner, not raw compression) are required.

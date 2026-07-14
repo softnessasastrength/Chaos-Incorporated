@@ -24,11 +24,13 @@ The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bott
 - **Romantic layers** — kimono duster (Phase 2) — the outerwear subcategory pulling most directly from the LoveShackFancy reference.
 
 ### Shoes (`/shoes/`)
-**Built: 6 items + the Anchor Heel line.** Every one fit-checked against a 63" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed):
-- **Everyday flats** — ballet flat (Phase 1).
-- **Sneakers** — clean sneaker (Phase 1), the "quiet structure" workhorse, same logic as the straight-leg jean.
-- **Boots** — heeled ankle boot (Phase 1), knee-high boot (Phase 2).
-- **Heels** — block heel pump (Phase 3 statement, 2.5–3", rare-occasion); [`anchor-heel/`](anchor-heel/) "Anchor One" (Must-Have, 2.0–2.25", everyday) — two genuinely different heels serving different jobs, not a duplicate. The Anchor Heel is the moderate-heel-worn-often piece this category's own README argued was the better investment, built out with its own full vision doc and manufacturing brief given how deep the spec runs (3 variations, dedicated tech pack).
+**Built: the full 8-shoe catalogue** (see [`shoes/README.md`](shoes/README.md) for the complete named list). Every one fit-checked against a 64" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed):
+- **Everyday flats** — the Perfect Flat (Phase 1, ballet + loafer hybrid, hidden 0.5" wedge).
+- **Sneakers** — the Cloud Walker (Phase 1, elegant-chunky, Gore-Tex option), the "quiet structure" workhorse, same logic as the straight-leg jean.
+- **Boots** — the Hug Boot (Phase 1, Chelsea + Western hybrid, chain-link pull tab), knee-high boot (Phase 2), the Rain/Snow Boot (waterproof Chelsea — the one shoe in the whole system where the "moderate heel worn often" rule is deliberately overridden, since ice/wet-weather traction safety outranks leg-lengthening).
+- **Heels** — block heel pump + the Statement Mule (both Phase 3 statement, 2.5–3", rare-occasion, two different silhouettes not a duplicate); [`anchor-heel/`](anchor-heel/) "Anchor One" (Must-Have, 2.0–2.25", everyday) — the moderate-heel-worn-often piece this category's own README argued was the better investment, built out with its own full vision doc and manufacturing brief given how deep the spec runs (3 variations, dedicated tech pack).
+- **Sandals** — the Barely There Sandal (Phase 2, two versions: Everyday Strap and Dressy Slide, hybrid leather/fabric straps for durability without losing the delicate look).
+- **Recovery** — the Yoga/Recovery Shoe, the one shoe category with no competing design priority against maximum comfort.
 - **Sandals** — ribbon-tie sandal (Phase 2), seasonal and romantic.
 
 ### Accessories (`/accessories/`)
@@ -50,4 +52,4 @@ Not a garment category — this is the assembly layer. **Built: 3 looks**, spann
 1. **Every item lives in exactly one category/subcategory folder** and follows the priority tiers in [`priority-system.md`](priority-system.md).
 2. **Color choices default to the 9-color palette** in `color-system.md` unless the item is explicitly an Experimental/Phase 3 bet.
 3. **Hardware is silver-family only**, system-wide — this is a hard rule, not a per-item judgment call, because it's what keeps every accessory compatible with Starlink One by default.
-4. **Fit rules from the manifesto apply everywhere**, not just bottoms — rise/inseam gets the most explicit treatment because bottoms was built first, but sleeve length, hem length, and proportion-to-63" apply with equal rigor to tops, outerwear, and dresses when that category is built.
+4. **Fit rules from the manifesto apply everywhere**, not just bottoms — rise/inseam gets the most explicit treatment because bottoms was built first, but sleeve length, hem length, and proportion-to-64" apply with equal rigor to tops, outerwear, and dresses when that category is built.

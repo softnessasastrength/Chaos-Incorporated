@@ -14,7 +14,7 @@ The naming deliberately echoes Starlink One — not a coincidence, a lineage. Wh
 
 | Spec | Target | Notes |
 |---|---|---|
-| Heel height | 2.0–2.25" (50–57mm) | The requested sweet spot — high enough to lengthen the leg line meaningfully at 63", low enough to never read as a "statement" heel |
+| Heel height | 2.0–2.25" (50–57mm) | The requested sweet spot — high enough to lengthen the leg line meaningfully at 64", low enough to never read as a "statement" heel |
 | Heel shape | Softly tapered block — wide at the breast, narrowing gently (not sharply) toward the top-lift | Not a stiletto taper, not a stiff cylindrical block — a shape that reads refined but never precarious |
 | Heel top width (at breast, where heel meets shoe) | ~34mm (front-to-back) × 30mm (side-to-side) | Provides the structural base the upper attaches to |
 | Heel base width (at top-lift, ground contact) | ~28mm (front-to-back) × 24mm (side-to-side) | Roughly 3× the ground-contact footprint of a stiletto — this width, not the height, is what actually delivers "grounding, never precarious" |
@@ -68,6 +68,8 @@ Two details, both deliberately private rather than decorative-on-the-outside —
 
 No exterior hardware, no visible chain-link trim on this shoe — that treatment is reserved for genuinely hardware-forward pieces elsewhere in the system (the chain-link belt, the hardware moto jacket). The Anchor Heel's whole identity is quiet competence; a loud ring reference on the outside would work against that.
 
+**Optional third detail:** a tiny engraved chain-link mark on the back of the heel (below the ankle line, at true-scale small enough to read as a maker's mark rather than a decoration) is compatible with this hidden-detail philosophy if a third touchpoint is wanted — it sits low and out of normal sightlines the same way the insole deboss sits hidden underfoot. Optional, not required; two details already satisfy the catalogue's "at least one" rule.
+
 ## 6. Three Variations
 
 All three share the core spec (Section 2) and construction method (Section 4) unless noted. Differences are material, exact height within the 2.0–2.25" range, and finishing.
@@ -110,7 +112,7 @@ All three share the core spec (Section 2) and construction method (Section 4) un
 
 ## 7. Sizing & Last Notes
 
-- **Last grading, not linear scaling:** the last must be independently graded for sizes US 5–7, not just linearly scaled down from a size 8–9 master last. This is a real, common footwear QC failure — toe box and vamp proportions that look correct at size 8–9 often look stubby or oddly oversized when a last is just shrunk uniformly rather than re-proportioned for a smaller foot. Flag this explicitly to the last-maker; it's the single highest-leverage fit note for a 63" frame's typically smaller foot size.
+- **Last grading, not linear scaling:** the last must be independently graded for sizes US 5–7, not just linearly scaled down from a size 8–9 master last. This is a real, common footwear QC failure — toe box and vamp proportions that look correct at size 8–9 often look stubby or oddly oversized when a last is just shrunk uniformly rather than re-proportioned for a smaller foot. Flag this explicitly to the last-maker; it's the single highest-leverage fit note for a 64" frame's typically smaller foot size.
 - **Width options:** offer three widths — Narrow (B), Medium (M, standard), Wide (W). Target ball-of-foot widths at a US size 7 reference: B ≈ 3.3", M ≈ 3.5", W ≈ 3.7" (confirm exact figures with the last-maker; these are target ranges, not locked measurements).
 - **Heel counter padding:** regardless of width option, the heel counter (back of the shoe, around the Achilles) gets substantial soft padding — this is one of the most common real-world heel-fit complaints (heel slip, rubbing) and is treated here as a comfort-priority spec, not an afterthought.
 - **Standard stock width:** Medium (M) as the default/standard-stock width, with B and W available as made-to-order or a smaller secondary production run once M is validated — same "prove the core, then expand" logic the wardrobe's own priority system already uses for colorways.

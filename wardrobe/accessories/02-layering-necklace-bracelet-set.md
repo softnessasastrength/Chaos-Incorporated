@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Thin, delicate layering chains (rather than one large statement piece) stay in scale with a smaller frame and don't compete with the ring for attention on the hand.
 - Proportion notes: necklace length should sit at or just above the collarbone (16–18" adjustable) — a longer length can visually lengthen the torso, which is a rare case where "longer" is actually useful at this height, but shouldn't go so long it competes with a lower neckline.
 - Comfort priority: lightweight gauge chain sits flat against skin and layers without tangling; heavier statement chains are more prone to catching on clothing and are saved for Phase 3 per `build-plan.md`.

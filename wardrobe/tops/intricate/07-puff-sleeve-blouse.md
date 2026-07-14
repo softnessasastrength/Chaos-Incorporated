@@ -5,8 +5,8 @@
 **Priority:** High
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
-- Puff-sleeve volume sits at the shoulder/upper arm, which is proportionally safer volume on a 63" frame than volume at the hip or hem — it doesn't compete with the leg-line math bottoms volume does.
+## Why It Works for Her Frame (64")
+- Puff-sleeve volume sits at the shoulder/upper arm, which is proportionally safer volume on a 64" frame than volume at the hip or hem — it doesn't compete with the leg-line math bottoms volume does.
 - Proportion notes: body fitted or semi-fitted through the torso so the sleeve is the one volume statement, not one of several; body length hits high hip for tucking; sleeve should stop above the elbow or fit closely from elbow to wrist so it doesn't run long and swallow the forearm.
 - Comfort priority: an engineered shoulder seam (elastic or gathered casing, not just loose gathered fabric) is what keeps this from feeling like costume rather than clothing — the manifesto's structural-anchor rule applied directly.
 

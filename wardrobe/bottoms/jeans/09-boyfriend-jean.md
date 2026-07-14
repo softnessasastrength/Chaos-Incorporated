@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - A relaxed-through-hip-and-thigh cut with a slightly slouchy leg — needs the same rise/crop discipline as baggy/wide-leg but in a smaller dose, since the volume is more moderate.
 - Proportion notes: cuff the hem once, above the ankle — this is the detail that keeps a boyfriend jean from reading as literally borrowed rather than styled loose on purpose.
 - Comfort priority: relaxed seat/thigh similar to mom jean, but with a straighter (less tapered) leg below the knee.

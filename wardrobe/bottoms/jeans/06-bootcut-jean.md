@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The slight flare from the knee down is one of the most reliably leg-lengthening cuts that exists, historically built specifically to skim over a boot and create an unbroken vertical line from hip to floor.
 - Proportion notes: hem length must break exactly at the top of a boot — too short loses the effect, too long drags and shortens the line.
 - Comfort priority: comfortable through hip and seat like a straight leg; the flare itself doesn't contact the leg, so no knee/calf tightness.

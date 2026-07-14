@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Cropped length (mid-thigh) sidesteps inseam-length problems entirely — the one category in this subfolder where petite sizing is a non-issue since there's no ankle hem to get wrong.
 - Proportion notes: length should hit mid-thigh, not so short it rides up, not so long it hits the knee.
 - Comfort priority: needs a wide, non-rolling hem at the thigh opening — the single most common bike-short complaint is hem roll-up during movement.

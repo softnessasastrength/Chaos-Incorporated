@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Strap drop matters more at this height than the bag itself — a crossbody strap sized/adjusted for a taller frame can sit at the hip or lower, throwing off the whole outfit's proportion. Adjust the strap so the bag sits at natural waist to high-hip.
 - Proportion notes: compact-to-medium size reads in-scale; an oversized bag can visually overwhelm a smaller frame the same way an unchecked wide-leg jean does.
 - Comfort priority: adjustable strap hardware needs to actually hold its set length without slipping — a constantly-resliding strap is a real daily annoyance, not a minor gripe.

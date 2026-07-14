@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Lightweight, built-in liner shorts provide function without needing precise external fit — the elastic waistband and short length make this one of the lowest fit-risk categories in the system.
 - Proportion notes: length should hit at or just above mid-thigh for full range of motion during exercise.
 - Comfort priority: liner should be soft, non-chafing, and breathable — the outer shell should move freely without clinging.

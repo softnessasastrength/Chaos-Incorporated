@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Same fit profile as the basic seamless legging (item 01), but in a cotton-forward blend for a softer, more breathable everyday option — the two together cover both "synthetic smooth" and "cotton soft" comfort preferences.
 - Proportion notes: petite inseam, 25–27".
 - Comfort priority: cotton-forward fabric breathes better for long stretches at home; this is the "all day at home" pair, not the "out the door" pair (that's item 01).

@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Same fitted-tee proportion logic as basics/01 and basics/04, with a button placket that adds a small structural detail to an otherwise plain silhouette.
 - Proportion notes: body length hits high hip; sleeve length checked against arm measurement as with the long-sleeve tee.
 - Comfort priority: soft cotton with a few buttons at the neckline — check button placement doesn't sit awkwardly at the collarbone.

@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Oversized fit needs a deliberate proportion counterweight per the manifesto's volume rule — pairs specifically with fitted bottoms (skinny jean, leggings, bike shorts) to avoid an all-over shapeless silhouette.
 - Proportion notes: body length should hit mid-hip to upper-thigh — long enough to read as intentionally oversized, not so long it looks like a borrowed dress on a shorter frame.
 - Comfort priority: soft, roomy through the body and sleeve — should feel like wearing very little structure at all.

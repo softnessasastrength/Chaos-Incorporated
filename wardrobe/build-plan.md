@@ -6,14 +6,14 @@
 
 ## Core Aesthetic Vision
 
-Chaos Incorporated dresses a 63" frame in **romantic, whimsical pieces that are engineered to be worn constantly, not admired occasionally.**
+Chaos Incorporated dresses a 64" frame in **romantic, whimsical pieces that are engineered to be worn constantly, not admired occasionally.**
 
 The reference points are LoveShackFancy's silhouette and detail language — puff sleeves, smocking, ruffle and lace trim, ribbon ties, ditsy florals, tiered volume — filtered through Target's actual wearability: real fabrics, real price points, clothes meant for daily life instead of a single event. That combination is the target, not a compromise between them.
 
 Three things make that combination actually work on this specific person, in this specific system:
 
 1. **Every romantic detail gets a structural anchor.** Per the manifesto, softness pairs with engineering — a puff sleeve gets a real shoulder seam that holds its shape, not just gathered fabric; a tiered skirt gets a waistband that stays put; lace trims a *substantial* base layer, never stands in for one. This is the same "soft shape, hard architecture" logic as the ring itself: a heart held by engineered prongs.
-2. **Volume gets an exit strategy at 63".** Romantic silhouettes run big by nature (puff sleeves, tiered hems, ruffle volume) — every one of them needs a specific answer for how it avoids swallowing a shorter frame: a fitted bodice under a full sleeve, a cropped length instead of a midi that hits at the widest part of a shorter leg, a defined waist instead of unstructured drape from shoulder to hem.
+2. **Volume gets an exit strategy at 64".** Romantic silhouettes run big by nature (puff sleeves, tiered hems, ruffle volume) — every one of them needs a specific answer for how it avoids swallowing a shorter frame: a fitted bodice under a full sleeve, a cropped length instead of a midi that hits at the widest part of a shorter leg, a defined waist instead of unstructured drape from shoulder to hem.
 3. **Starlink One is the material and color DNA, not just an accessory.** Sterling silver is the only metal in the system. Emerald green anchors the color palette. The ring's chain-link detailing recurs as a hardware motif (belts, bracelet layering, occasional trim). The ring's deliberately unprotected, patina-friendly finish sets the standard for the whole wardrobe: default to washes and materials that improve with wear rather than anything that only looks right in its first week.
 
 The result should read as one coherent person's closet, not a costume box — every piece works in rotation with the others, and every piece has an honest answer for why it's comfortable enough to actually wear.
@@ -72,4 +72,4 @@ All three phases are now built. For reference, the sequence actually followed:
 7. ~~**Phase 2 expansion**~~ — done, all five categories
 8. ~~**Phase 3**~~ — done, all five categories plus the new Dresses category
 
-**What's actually validated vs. aspirational:** every item in this system is still a *Concept* or *Sourcing* status — nothing has been physically fitted, purchased, or worn yet. "Built" above means the design/spec/documentation work is done, not that the wardrobe physically exists. The next real milestone isn't more files — it's sourcing and physically fitting the Phase 1 pieces against Renn's actual body, which is the only way to validate any of the 63"-frame proportion reasoning in these files against reality.
+**What's actually validated vs. aspirational:** every item in this system is still a *Concept* or *Sourcing* status — nothing has been physically fitted, purchased, or worn yet. "Built" above means the design/spec/documentation work is done, not that the wardrobe physically exists. The next real milestone isn't more files — it's sourcing and physically fitting the Phase 1 pieces against Renn's actual body, which is the only way to validate any of the 64"-frame proportion reasoning in these files against reality.

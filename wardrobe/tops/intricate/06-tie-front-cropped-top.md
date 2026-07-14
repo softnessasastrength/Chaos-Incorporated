@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Cropped length paired with a high-rise bottom keeps the waist visually defined without a long torso needed to "support" a crop — one of the most reliably flattering combinations for a shorter frame specifically because it works with high rise, not against it.
 - Proportion notes: crop length should hit right at the high-rise waistband of the paired bottom — too short exposes midriff beyond the waistband, too long defeats the point of cropping.
 - Comfort priority: front tie should be adjustable for a comfortable, non-restrictive fit around the ribcage.

@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The diagonal wrap line creates a natural waist-defining V that's especially flattering on a shorter torso, since it draws the eye toward a single defined point rather than a straight horizontal hemline.
 - Proportion notes: tie at the natural waist, not lower — a low-tied wrap top can shorten the torso visually.
 - Comfort priority: adjustable tie means custom fit regardless of small day-to-day bloat/fit variation — genuinely comfortable across a range of body states.

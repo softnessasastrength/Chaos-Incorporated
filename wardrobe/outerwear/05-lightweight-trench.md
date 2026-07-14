@@ -5,8 +5,8 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
-- A trench's structured shoulder and defined waist belt naturally create the "hard architecture" the manifesto calls for, but full-length trenches (designed for taller frames) hit well past the knee on a 5'3" frame — shorten to just above or at the knee, not mid-calf.
+## Why It Works for Her Frame (64")
+- A trench's structured shoulder and defined waist belt naturally create the "hard architecture" the manifesto calls for, but full-length trenches (designed for taller frames) hit well past the knee on a 5'4" frame — shorten to just above or at the knee, not mid-calf.
 - Proportion notes: sleeve must be hemmed to end at the wrist, the same non-negotiable spec as the cropped denim jacket; the belt is what defines the waist on a shorter torso, so it needs to be functional, not decorative.
 - Comfort priority: lightweight cotton-blend gabardine, not the heavier wool-blend trench fabric, so it doesn't feel stiff or overly warm as a three-season piece.
 

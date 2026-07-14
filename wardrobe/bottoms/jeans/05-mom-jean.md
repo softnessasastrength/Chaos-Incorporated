@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - High rise + tapered ankle is one of the most universally flattering combinations for a shorter torso — the taper narrows the leg line exactly where it's most visible (lower leg) while the roomier hip/thigh stays comfortable.
 - Proportion notes: taper should land at or just above the ankle bone; avoid a longer, looser taper that reintroduces the "extra fabric" problem.
 - Comfort priority: relaxed through seat and thigh means genuinely all-day comfortable seated wear, closer to legging-comfort than skinny-jean-comfort.

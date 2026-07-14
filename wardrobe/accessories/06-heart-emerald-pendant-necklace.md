@@ -5,7 +5,7 @@
 **Priority:** Experimental (Phase 3 Statement)
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Unlike the everyday layering set (Phase 1), this is a single statement piece meant to be worn deliberately, not in daily rotation — a heart-motif or emerald-adjacent pendant on a longer chain (20–24") that sits at or just below the collarbone, giving a second, quieter echo of the ring at a different point on the body than the hand.
 - Proportion notes: a single pendant, not a cluster — at a smaller frame, one deliberate statement piece reads more intentional than several competing for attention.
 - Comfort priority: a lightweight setting, and a chain gauge substantial enough to feel secure without being heavy enough to notice after an hour of wear.

@@ -5,8 +5,8 @@
 **Priority:** [Must-Have / High / Medium / Experimental]
 **Status:** [Concept / Sourcing / Owned / Retired]
 
-## Why It Works for Her Frame (63")
-- Fit rationale for a 63" adult frame:
+## Why It Works for Her Frame (64")
+- Fit rationale for a 64" adult frame:
 - Proportion notes (rise, inseam, hem, where volume sits):
 - Comfort priority notes:
 

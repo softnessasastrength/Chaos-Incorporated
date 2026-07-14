@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Relaxed elastic waist and soft drawstring mean minimal fit-precision risk — a genuine comfort staple that works across body types by design.
 - Proportion notes: length just above the knee to mid-thigh depending on preference; petite sizing may still be worth checking if the brand runs long.
 - Comfort priority: French terry interior loop should feel soft, not scratchy, against skin — check for a brushed interior finish.

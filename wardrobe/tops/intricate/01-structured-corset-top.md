@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Boning at the side seams and a defined waist seam create a strong, precise waistline — a genuinely flattering structural tool for any frame, and especially effective at visually anchoring proportion at a shorter torso.
 - Proportion notes: hem should hit right at the natural waist or just below — a longer corset-style top can shorten the torso further; keep the bottom edge crisp and at the waistband of high-rise bottoms.
 - Comfort priority: boning channels should be flexible spiral steel or flexible plastic, not rigid — should allow sitting/bending without digging into ribs.

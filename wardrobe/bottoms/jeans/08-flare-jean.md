@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Leg-lengthening when the fitted-thigh-to-flare-from-knee ratio is correct — the fitted portion should end at or just below the knee, giving the flare enough length to lengthen the leg without pooling on the ground.
 - Proportion notes: hem must hit exactly at the top of the shoe. Too long reverses the leg-lengthening effect into looking like excess fabric.
 - Comfort priority: fitted through hip/thigh similar to a straight leg — comfort profile mirrors straight-leg, not wide-leg.

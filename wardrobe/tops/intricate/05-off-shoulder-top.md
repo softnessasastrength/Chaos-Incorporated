@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Widens the visual line across the collarbone similar to the cut-out shoulder top, and elongates the neck by exposing it fully — a genuinely useful proportion tool for a shorter frame.
 - Proportion notes: fitted body length hitting at the high hip; sleeve should sit securely at the upper arm, not slide down constantly (check for elastic or structured shoulder band).
 - Comfort priority: elastic shoulder band needs to be snug enough to stay in place without digging in — this is the most common fit failure point for this style.

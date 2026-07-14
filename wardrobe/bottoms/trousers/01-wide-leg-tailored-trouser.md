@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - High rise is mandatory here, same logic as the wide-leg jean in `../jeans/jeans-template.md` — it anchors the waist and keeps wide leg volume from reading as swallowing the frame.
 - Proportion notes: fitted through hip and waist, wide from thigh down, hemmed to ankle-crop length (never a full break/pool) — the same "exit strategy" the jeans system requires of every wide-leg silhouette.
 - Comfort priority: a stretch ponte or suiting blend so this doesn't feel like stiff office-wear; the waistband needs real give even though the piece reads structured.

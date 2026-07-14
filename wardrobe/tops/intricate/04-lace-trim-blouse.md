@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - A fitted or semi-fitted blouse silhouette with lace trim at the collar/cuffs keeps the romantic detail concentrated at the face and hands, drawing the eye upward — flattering framing for a shorter frame rather than adding visual weight at the hem.
 - Proportion notes: body length should hit at the high hip for tucking into high-rise bottoms.
 - Comfort priority: lace trim should be soft (not stiff/scratchy) at points of skin contact — check the collar and cuff lace specifically since those touch skin directly.

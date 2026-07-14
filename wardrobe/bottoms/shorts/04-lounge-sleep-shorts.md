@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Relaxed elastic waistband and soft fabric mean fit precision matters less than in any other bottoms category — this is a genuine comfort-only piece.
 - Proportion notes: length should hit mid-thigh; longer lengths can bunch when sleeping.
 - Comfort priority: this is the highest comfort-priority item in the entire bottoms system — no waistband dig-in, no seam irritation, breathable for overnight wear.

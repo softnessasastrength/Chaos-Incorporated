@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Worn at the neck, a scarf adds visual interest at the top of the body — like the cut-out shoulder top, it draws the eye upward and outward at the collarbone, a flattering counterbalance for a shorter frame rather than adding bulk at the waist or hip. Worn on a bag instead, it adds color/texture without touching body proportions at all.
 - Proportion notes: keep the scarf square/rectangle small-to-medium (not an oversized blanket scarf) when worn at the neck, so it doesn't add visual bulk to a smaller frame.
 - Comfort priority: lightweight silk or silk-blend so it doesn't feel heavy or hot when worn at the neck for a full day.

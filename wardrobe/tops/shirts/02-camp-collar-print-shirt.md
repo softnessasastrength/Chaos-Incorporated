@@ -5,7 +5,7 @@
 **Priority:** Experimental
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The camp collar (open, no top button, flat lay) sits closer to the body than a standard point collar, which keeps the neckline from adding visual width at the shoulder — important since this is a boxier, straight-cut shirt overall.
 - Proportion notes: body length is cropped to hip-length, not the longer, looser resort-shirt cut this style is usually sold in; can be worn open over a fitted base or buttoned with a front tuck/knot, same volume logic as the flannel shirt. Short sleeve (elbow or above) is the default length, which incidentally solves the ring-visibility question for free — no cuff to manage at all.
 - Comfort priority: a lightweight, breathable woven (not the stiff rayon most stock Hawaiian shirts use) — meant to actually be worn, not just photographed once.

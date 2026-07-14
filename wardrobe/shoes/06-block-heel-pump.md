@@ -5,7 +5,7 @@
 **Priority:** Experimental (Phase 3 Statement)
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Per `README.md`'s own note, a moderate heel worn often gives more usable leg-lengthening across a week than a high heel worn rarely — this piece intentionally breaks that rule as a single, considered exception for genuine going-out occasions, which is exactly what a Phase 3 statement piece is for.
 - Proportion notes: 2.5–3" block or stacked heel (not stiletto-thin) for stability; a rounded or almond toe rather than a sharp point, which shortens the visual foot-to-leg line less than a pointed toe does on a smaller foot.
 - Comfort priority: cushioned footbed and a genuinely stable heel base are still required even at this height — "it's a going-out shoe" is not a license to ignore comfort per the manifesto's non-negotiable comfort rule.

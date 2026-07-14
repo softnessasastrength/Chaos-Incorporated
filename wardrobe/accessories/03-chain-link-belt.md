@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - A chain-link belt worn at the natural waist is one of the most effective ways to define a waistline on a shorter torso without adding bulk — it layers on top of existing bottoms rather than replacing a waistband, so it's a low-commitment way to add a defined-waist effect to pieces that don't have one built in (an oversized tee, an open cardigan, the kimono duster).
 - Proportion notes: chain-link scale should be small-to-medium, not oversized — an oversized chunky chain-link belt can swallow a smaller waist rather than defining it.
 - Comfort priority: adjustable length is essential given the range of pieces it's meant to layer over; the chain should sit flat against clothing, not dig in.

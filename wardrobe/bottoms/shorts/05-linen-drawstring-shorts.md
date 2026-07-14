@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - High rise with an adjustable drawstring waist gives precise waist control regardless of standard sizing gaps — genuinely useful at any height, but especially forgiving on a smaller frame where standard elastic can be too loose.
 - Proportion notes: length at mid-thigh to just above the knee; the relaxed leg opening needs a shorter length to avoid boxiness.
 - Comfort priority: linen breathes exceptionally well and softens with wear — the most warm-weather-comfortable fabric in the shorts system.

@@ -5,8 +5,8 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
-- Longer inseam (knee-length) needs a high rise and a slightly tapered or straight leg to avoid visually shortening the leg — a wide-leg bermuda on a 5'3" frame risks looking boxy.
+## Why It Works for Her Frame (64")
+- Longer inseam (knee-length) needs a high rise and a slightly tapered or straight leg to avoid visually shortening the leg — a wide-leg bermuda on a 5'4" frame risks looking boxy.
 - Proportion notes: hem should land right at or just above the knee — below the knee starts to shorten the visible leg line significantly at this height.
 - Comfort priority: structured fabric (not denim-heavy) for a more polished, breathable warm-weather trouser-short hybrid.
 

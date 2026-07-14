@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Fitted ribbed knit is a clean layering base under jackets/cardigans, or worn alone tucked into high-rise bottoms — versatile at any height, no proportion risk.
 - Proportion notes: length should hit at the high hip, straight hem for tucking.
 - Comfort priority: rib knit should have good stretch recovery so the tank doesn't lose shape at the neckline/armholes.

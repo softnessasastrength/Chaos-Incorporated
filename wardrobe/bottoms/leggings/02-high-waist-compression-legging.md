@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - High compression waistband stays put during movement without needing to be pulled up — important at any height, but especially so where a standard-length waistband may sit at a slightly different point on a shorter torso.
 - Proportion notes: confirm petite inseam so the ankle hem doesn't bunch at the shoe during squats/lunges.
 - Comfort priority: needs real four-way stretch through hip and knee for full range of motion; the waistband should compress without rolling.

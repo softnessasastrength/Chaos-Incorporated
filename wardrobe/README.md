@@ -1,6 +1,6 @@
 # Renn Wardrobe
 
-Full fashion design system: romantic, whimsical pieces (LoveShackFancy x Target DNA) engineered for a 63" frame, built around a fixed sterling-silver-and-emerald reference point — [Starlink One](../ring/README.md).
+Full fashion design system: romantic, whimsical pieces (LoveShackFancy x Target DNA) engineered for a 64" frame, built around a fixed sterling-silver-and-emerald reference point — [Starlink One](../ring/README.md).
 
 ## Start Here
 1. [`wardrobe-manifesto.md`](wardrobe-manifesto.md) — design doctrine, read first

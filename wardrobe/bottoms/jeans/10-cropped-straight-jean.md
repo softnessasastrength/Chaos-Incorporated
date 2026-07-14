@@ -5,8 +5,8 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
-- Purpose-built for a shorter frame: a straight leg that's already cropped at the correct length rather than requiring alteration — the single easiest "buy and wear" jean in the system for a 63" height.
+## Why It Works for Her Frame (64")
+- Purpose-built for a shorter frame: a straight leg that's already cropped at the correct length rather than requiring alteration — the single easiest "buy and wear" jean in the system for a 64" height.
 - Proportion notes: designed to hit right at or just above the ankle bone at true petite length, avoiding both the "too much fabric pooling" problem and the "too short, looks like outgrown pants" problem.
 - Comfort priority: same mobility profile as full straight-leg, just shorter — no fit compromise anywhere.
 

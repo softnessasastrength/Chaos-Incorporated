@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Smocking is elastic by construction, so the bodice self-adjusts and stays put without a separate closure — genuinely one of the most comfortable structured-look tops available.
 - Proportion notes: keep smocking concentrated at the bodice/waist rather than full-body (full-body smocking adds visual bulk); body length hits high hip. The smocked panel defines a waistline on a shorter torso instead of letting the eye read one long unbroken column.
 - Comfort priority: a genuinely high-comfort silhouette — the elastic smocked panel means zero waistband-digging, the same seamless-comfort logic as the leggings system applied to a woven top.

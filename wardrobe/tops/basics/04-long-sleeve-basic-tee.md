@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Same fitted logic as the crew tee (item 01) with sleeve length as the key spec to verify — standard sleeve length can run long on a shorter arm, check for a petite/regular fit distinction.
 - Proportion notes: cuff should hit at the wrist bone, not bunch past it.
 - Comfort priority: soft, breathable, layers cleanly under jackets/cardigans without adding bulk at the wrist.

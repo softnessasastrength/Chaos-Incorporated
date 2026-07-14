@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Shoulder cut-outs draw the eye horizontally across the collarbone, which widens the visual frame at the top of the body — a good counterbalance for silhouettes with a lot of volume lower down (wide-leg or baggy jeans).
 - Proportion notes: keep cut-out placement at the outer shoulder, not the center chest, to avoid narrowing the frame instead.
 - Comfort priority: cut-out edges should be finished/bound, not raw-cut, to avoid stretching or fraying against skin with wear.

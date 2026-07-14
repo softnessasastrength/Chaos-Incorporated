@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Same oversized-pairing logic as the boyfriend tee (basics/02) — needs a fitted bottom to keep proportions balanced, but the cropped or regular-length version both work depending on desired coverage.
 - Proportion notes: regular length hits at the high hip; a cropped version (hitting at the waist) is a good alternative for tucking or pairing with high-rise bottoms without excess bulk.
 - Comfort priority: soft brushed fleece interior, ribbed cuffs and hem that don't dig in.

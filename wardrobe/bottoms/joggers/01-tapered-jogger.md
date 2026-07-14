@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The tapered, cuffed ankle is the same proportion tool as the mom jean's tapered leg — it narrows the visible lower leg on a shorter frame while the body of the pant stays relaxed.
 - Proportion notes: inseam should hit right at the ankle bone with the cuff/rib — don't let the tapered portion bunch past the ankle, which reads as too-long on a shorter leg.
 - Comfort priority: this is a comfort-core piece by definition — soft fleece or French terry, a drawstring waist that doesn't dig in.

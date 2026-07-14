@@ -5,8 +5,8 @@
 **Priority:** Must-Have
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
-- Cropped length (hits at or just below the natural waist) avoids the boxy, swallowing effect a standard-length jacket creates on a shorter torso — a standard denim jacket runs to mid-hip on a 5'3" frame, which visually shortens the leg line underneath instead of framing it.
+## Why It Works for Her Frame (64")
+- Cropped length (hits at or just below the natural waist) avoids the boxy, swallowing effect a standard-length jacket creates on a shorter torso — a standard denim jacket runs to mid-hip on a 5'4" frame, which visually shortens the leg line underneath instead of framing it.
 - Proportion notes: sleeve must end at the wrist bone, not past it. Standard sleeve lengths run long on this frame and will bunch or cover the hand — this is the one spec on this piece that isn't negotiable, since it's worn constantly and directly determines ring visibility on most days it's worn.
 - Comfort priority: structured shoulder, but a soft, already-broken-in wash through the body so it doesn't sit stiff and board-like across the shoulders.
 

@@ -5,8 +5,8 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
-- The single most reliable rise/leg combination at 5'3": mid-to-high rise plus a clean, non-tapered, non-flared leg lengthens the line without adding width or shortening the torso.
+## Why It Works for Her Frame (64")
+- The single most reliable rise/leg combination at 5'4": mid-to-high rise plus a clean, non-tapered, non-flared leg lengthens the line without adding width or shortening the torso.
 - Proportion notes: hem should hit at or just above the top of the shoe — ask for a petite inseam or plan to hem, do not buy standard-length and let it pool.
 - Comfort priority: this is the "wear it and forget about it" jean — no fit compromise anywhere on the body, all-day mobility at hip/seat.
 

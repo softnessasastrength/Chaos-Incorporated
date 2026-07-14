@@ -5,7 +5,7 @@
 **Priority:** Experimental (Phase 3 Statement)
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - A cropped moto silhouette (hits at or above the natural waist) keeps this piece from adding length to a shorter torso the way a longer motorcycle jacket would; a structured shoulder and fitted body read as intentional rather than borrowed from a taller frame's proportions.
 - Proportion notes: sleeve hemmed to the wrist bone, the same mandatory spec as every other outerwear piece in the system; cropped body length, fitted rather than oversized through the shoulder.
 - Comfort priority: soft, already-broken-in leather, or a structured ponte/scuba moto silhouette as a non-leather option — stiff leather against skin at the collar and cuff is a real comfort cost for a piece meant to be worn, not just photographed.

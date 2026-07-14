@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - High rise and a short (not micro) inseam keep the leg line long rather than cutting it short at the widest part of the thigh.
 - Proportion notes: inseam should hit at or just above mid-thigh — shorter than that starts to look disproportionate on a shorter leg, longer starts to compete with bootcut/straight jean proportions.
 - Comfort priority: raw/frayed hem must be checked for scratchiness at inner thigh — a poorly finished cutoff hem is a real all-day irritant.

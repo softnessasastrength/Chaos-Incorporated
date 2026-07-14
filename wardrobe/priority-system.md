@@ -24,7 +24,7 @@ A good idea that isn't urgent. Worth building once the Must-Have and High layers
 A bet on a new silhouette, fabric, era, or aesthetic direction the system hasn't validated yet. Small quantity. The point is to learn whether it works, not to commit to it.
 - Build exactly one, in the safest colorway, before deciding whether to expand the bet.
 - If it flops, that's a successful experiment — cut it and document why in the item's notes.
-- Example: a barrel-leg jean, an unfamiliar silhouette for a 63" frame that needs real-world testing before scaling.
+- Example: a barrel-leg jean, an unfamiliar silhouette for a 64" frame that needs real-world testing before scaling.
 
 ## How to Assign a Tier
 

@@ -5,8 +5,8 @@
 **Priority:** Experimental
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
-- A cropped, fitted-through-the-leg cut (not a wide workwear silhouette) avoids the swallowing effect a standard overall runs on a 5'3" frame; adjustable straps let the bib depth get tuned so it doesn't sit too low or long on a shorter torso.
+## Why It Works for Her Frame (64")
+- A cropped, fitted-through-the-leg cut (not a wide workwear silhouette) avoids the swallowing effect a standard overall runs on a 5'4" frame; adjustable straps let the bib depth get tuned so it doesn't sit too low or long on a shorter torso.
 - Proportion notes: straight or slightly tapered leg, cropped to the ankle; bib should hit at or just below the natural waist's upper point, not mid-chest.
 - Comfort priority: soft-washed denim or cotton twill, adjustable strap hardware that doesn't dig into the shoulder.
 

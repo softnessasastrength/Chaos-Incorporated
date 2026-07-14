@@ -5,14 +5,14 @@
 **Priority:** High
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - The boyfriend/oversized fit is intentionally roomy through the body, so it gets the same "volume needs an exit strategy" treatment as every other oversized piece in this system: worn open over a fitted basics tank, or half-tucked/knotted at the front hem to reintroduce a waistline. It's not meant to be worn buttoned-and-loose with nothing else doing proportion work.
-- Proportion notes: body length hits mid-hip to high-thigh — long enough to read as an intentional "boyfriend shirt," short enough that on a 5'3" frame it doesn't run past where a dress would end. Sleeve length is the critical spec: a men's-inspired oversized cut runs long by default, so the cuff needs to land at or just above the wrist bone through petite sizing or a deliberate roll, not a sleeve that swallows the hand.
+- Proportion notes: body length hits mid-hip to high-thigh — long enough to read as an intentional "boyfriend shirt," short enough that on a 5'4" frame it doesn't run past where a dress would end. Sleeve length is the critical spec: a men's-inspired oversized cut runs long by default, so the cuff needs to land at or just above the wrist bone through petite sizing or a deliberate roll, not a sleeve that swallows the hand.
 - Comfort priority: a wear-it-into-the-ground comfort piece — brushed, pre-washed flannel that's already soft, not stiff off-the-shelf flannel that takes months to break in.
 
 ## Technical Specs
 - Rise: N/A
-- Inseam / length: Body length ~27–29" (mid-hip to high-thigh on a 5'3" frame)
+- Inseam / length: Body length ~27–29" (mid-hip to high-thigh on a 5'4" frame)
 - Waist range / sizing notes: Intentionally oversized through the body — size up 1–2 sizes from her fitted-tee size for the boyfriend proportion, not true-to-size
 - Stretch level: Minimal, 0–2% elastane in the cotton-flannel weave — a little give at the shoulder seam, not a stretch-forward fabric
 - Fabric weight: Mid-weight brushed flannel, 5–6oz

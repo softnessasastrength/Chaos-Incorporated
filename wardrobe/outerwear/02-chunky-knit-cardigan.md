@@ -5,8 +5,8 @@
 **Priority:** Must-Have
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
-- Oversized/chunky knits swallow a 63" frame fast if left unchecked — the fix is a defined hip-length hem (not thigh-length) plus an optional self-tie belt that cinches the waist back in on demand, giving the piece the manifesto's required "exit strategy" from pure volume.
+## Why It Works for Her Frame (64")
+- Oversized/chunky knits swallow a 64" frame fast if left unchecked — the fix is a defined hip-length hem (not thigh-length) plus an optional self-tie belt that cinches the waist back in on demand, giving the piece the manifesto's required "exit strategy" from pure volume.
 - Proportion notes: sleeve length must still end at or before the wrist. Chunky knits run long in the sleeve by default and need a turn-back cuff or petite-specific sizing — this is the single highest-risk item in the system for accidentally covering the ring, since knit bulk visually swallows the hand even at a technically "correct" length.
 - Comfort priority: this is a pure comfort piece — soft, non-itchy yarn is non-negotiable at the collar and cuff specifically, since those are the two highest skin-contact points on an open cardigan.
 

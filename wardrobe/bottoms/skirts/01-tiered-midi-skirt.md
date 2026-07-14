@@ -5,8 +5,8 @@
 **Priority:** Experimental
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
-- Tiered volume needs the same exit strategy as a tiered top — crop to knee or just-below-knee rather than a true mid-calf midi, which can shorten a 5'3" leg line.
+## Why It Works for Her Frame (64")
+- Tiered volume needs the same exit strategy as a tiered top — crop to knee or just-below-knee rather than a true mid-calf midi, which can shorten a 5'4" leg line.
 - Proportion notes: high-waisted so the tiers start below a clearly defined waistband, not blending into whatever top is worn above it.
 - Comfort priority: an elastic-eased waistband with enough structure to stay put, and lightweight tiered fabric so the ruffle layers don't add heat or weight.
 

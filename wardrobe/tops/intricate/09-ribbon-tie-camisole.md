@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Adjustable ribbon straps mean the neckline/strap length can be tuned exactly to a shorter torso rather than sitting at a length designed for a taller sample size — a genuine fit advantage, not just a styling detail.
 - Proportion notes: body length hits at or just above the natural waist so it can be worn alone or layered under an open cardigan/blouse without adding length at the hip.
 - Comfort priority: ribbon straps should be a soft grosgrain or satin ribbon, not a thin cord that digs into the shoulder.

@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Concept
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - A scale-appropriate way to add romantic detail (color, texture, print) without adding bulk anywhere on the body — one of the lowest-risk, highest-aesthetic-payoff categories in the whole system.
 - Proportion notes: N/A — this category is proportion-neutral by nature, which is part of why it's a good place to take bigger aesthetic risks (bows, larger ribbon ties) than would work as a garment detail.
 - Comfort priority: silk or silk-blend scrunchies specifically, not elastic-only, to avoid hair breakage and tension — a genuine comfort spec, not just an aesthetic one.

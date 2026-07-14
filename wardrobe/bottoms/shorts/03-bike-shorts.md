@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-## Why It Works for Her Frame (63")
+## Why It Works for Her Frame (64")
 - Same logic as the legging bike-short (leggings/06) but positioned here as a standalone outer garment rather than a layering base — cropped length sidesteps inseam problems entirely.
 - Proportion notes: length at mid-thigh, wide non-roll hem.
 - Comfort priority: needs genuine compression recovery — a bike short that loosens by midday defeats its own purpose.
