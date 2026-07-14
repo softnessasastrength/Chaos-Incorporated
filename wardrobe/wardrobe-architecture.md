@@ -24,11 +24,11 @@ The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bott
 - **Romantic layers** — kimono duster (Phase 2) — the outerwear subcategory pulling most directly from the LoveShackFancy reference.
 
 ### Shoes (`/shoes/`)
-**Built: 6 items.** Every one fit-checked against a 63" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed):
+**Built: 6 items + the Anchor Heel line.** Every one fit-checked against a 63" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed):
 - **Everyday flats** — ballet flat (Phase 1).
 - **Sneakers** — clean sneaker (Phase 1), the "quiet structure" workhorse, same logic as the straight-leg jean.
 - **Boots** — heeled ankle boot (Phase 1), knee-high boot (Phase 2).
-- **Heels** — block heel pump (Phase 3 statement) — the single considered heel, not a speculative category.
+- **Heels** — block heel pump (Phase 3 statement, 2.5–3", rare-occasion); [`anchor-heel/`](anchor-heel/) "Anchor One" (Must-Have, 2.0–2.25", everyday) — two genuinely different heels serving different jobs, not a duplicate. The Anchor Heel is the moderate-heel-worn-often piece this category's own README argued was the better investment, built out with its own full vision doc and manufacturing brief given how deep the spec runs (3 variations, dedicated tech pack).
 - **Sandals** — ribbon-tie sandal (Phase 2), seasonal and romantic.
 
 ### Accessories (`/accessories/`)
