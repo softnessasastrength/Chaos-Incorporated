@@ -1,0 +1,15 @@
+# Chaos Incorporated
+
+The official design system for Renn.
+
+This repository contains all custom designs, wardrobe planning, technical specifications, and hyperfixation projects.
+
+## Current Projects
+- **Starlink One** — Custom heart emerald ring (sterling silver + chain link detail)
+- **Renn Wardrobe** — Full fashion design system (tops, bottoms, shoes, full looks)
+- **Signature Pen** — Over-engineered personal pen (Phase 2)
+
+## Structure
+- `/ring/` — All files related to Starlink One
+- `/wardrobe/` — Full fashion system
+- `/objects/` — Future custom objects (pen, etc.)
