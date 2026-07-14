@@ -9,9 +9,10 @@
 *Originally five — Dresses was added during Phase 3 once a piece existed that didn't fit cleanly under Tops or Bottoms. See the note at the end of that section.*
 
 ### Tops (`/tops/`)
-Split into two subfolders, matching the manifesto's soft/structure duality:
+Split into three subfolders — originally two, matching the manifesto's soft/structure duality; `shirts/` was added afterward once a piece existed that was neither a plain basic nor a romantic intricate detail:
 - **`basics/`** — solid tees, tanks, long-sleeves, base layers. Quiet, high-rotation, mostly Cloud Ivory / Sterling Grey / Midnight Navy. These exist to be layered under or paired with an intricate piece — they are not where the whimsy lives. **Built: 6 items.**
 - **`intricate/`** — the LoveShackFancy x Target DNA: puff-sleeve blouses, smocked bodices, lace-trim camisoles, ribbon-tie necklines, ruffle detailing. This is where Blush Mauve, Periwinkle, and Lavender Mist do the most work. Every intricate top needs the manifesto's "one hard detail" — a structured cuff, a corseted or smocked bodice panel, a substantial (not flimsy) base fabric under any lace. **Built: 10 items**, including the puff-sleeve blouse and smocked top named in the Core Aesthetic Vision.
+- **`shirts/`** — button-front woven shirts: an oversized flannel and a camp-collar print shirt. Neither is a quiet basic (both carry real pattern/print) nor a romantic intricate detail (no lace, ruffle, or smocking) — they're their own register, casual-with-personality rather than whimsical. This is also where the color system's print exception gets its most explicit workout: the camp-collar shirt is a deliberately re-colored "cool-toned Hawaiian" print (Starlink Emerald/Sage/Periwinkle) rather than the traditional warm red-orange-gold register, so it stays inside the brand's cool-undertone palette instead of importing a clashing print wholesale. **Built: 2 items.**
 
 ### Bottoms (`/bottoms/`)
 The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) for the full ranking. Seven subfolders: `jeans/` (10), `leggings/` (8), `shorts/` (8), `trousers/` (2), `joggers/` (1), `skirts/` (1, Experimental), `overalls/` (1, Experimental) — skirts and overalls graduated from "no dedicated folder yet" once their first Experimental bet landed.

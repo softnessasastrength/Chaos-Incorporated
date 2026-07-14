@@ -14,7 +14,7 @@ Full fashion design system: romantic, whimsical pieces (LoveShackFancy x Target 
 All three phases are built out — see [`build-plan.md`](build-plan.md) for the full breakdown. Phase 3 statement pieces were built ahead of the normal sequencing rule (Phase 1 complete, Phase 2 half-built per category) at explicit request; treat the Phase 1/2 pieces as the near-term shopping list and Phase 3 as the aspirational proof-of-concept.
 
 ## Categories
-- `/tops/` — `basics/` (6 items) + `intricate/` (10 items: puff sleeve, smocking, lace, ruffle, camisole, wrap, corset, cut-out, off-shoulder, tie-front)
+- `/tops/` — `basics/` (6 items) + `intricate/` (10 items: puff sleeve, smocking, lace, ruffle, camisole, wrap, corset, cut-out, off-shoulder, tie-front) + `shirts/` (2 items: oversized flannel, cool-toned camp-collar print)
 - `/bottoms/` — jeans (10), leggings (8), shorts (8), trousers (2), joggers (1), skirts (1), overalls (1) — see [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) — most built-out category
 - `/outerwear/` — 6 items: denim jacket, cardigan, kimono, vest, trench, statement moto jacket
 - `/shoes/` — 6 items: flat, sneaker, ankle boot, knee-high boot, sandal, statement heel
