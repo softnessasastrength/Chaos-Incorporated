@@ -38,34 +38,38 @@ Phases are about *sequence*, not exclusively priority tier — Phase 1 is "what 
 ### Phase 2 — Expansion
 *Goal: rotation depth and seasonal coverage — the wardrobe stops repeating the same 10 pieces.*
 
-| Category | Scope |
-|---|---|
-| **Bottoms** | Already mid-build per `bottoms-priority.md` — trousers, joggers, and colorway expansion (second/third jean wash, more legging colors) land here. |
-| **Tops** | Expand `basics/` colorways across the full palette; add 3–4 more `intricate/` pieces (ribbon-tie camisole, lace-trim long-sleeve, tiered/ruffle top). |
-| **Outerwear** | Add the kimono/duster (romantic layering piece), a quilted vest for shoulder-season, a lightweight trench. |
-| **Shoes** | Add sandals (seasonal) and a second boot option; revisit heel category as Medium priority. |
-| **Accessories** | Chain-link belt (direct Starlink One hardware echo), hair ribbons/scrunchies, one everyday scarf. |
+| Category | Status | Scope |
+|---|---|---|
+| **Bottoms** | Built | Wide-leg tailored trouser + straight-leg ponte trouser (`trousers/`), tapered jogger (new `joggers/` folder). Colorway expansion across existing jeans/leggings was not done piece-by-piece — most items already draw from the palette; see `color-system.md`'s "Breaking the Palette" note for the few that don't. |
+| **Tops** | Built | 4 more `intricate/` pieces: puff-sleeve blouse, smocked top, ribbon-tie camisole, tiered ruffle top — exactly the scope named here, including the two signature LoveShackFancy pieces (puff sleeve, smocking) the Core Aesthetic Vision named but Phase 1 hadn't built yet. |
+| **Outerwear** | Built | Kimono duster, quilted vest, lightweight trench — all three. |
+| **Shoes** | Built | Ribbon-tie sandal, knee-high boot (second boot option). |
+| **Accessories** | Built | Chain-link belt, hair ribbons & scrunchies, everyday scarf. |
 
 ### Phase 3 — Statement Pieces
 *Goal: the pieces that make this specifically Renn's wardrobe and specifically Chaos Incorporated — lower quantity, higher intentionality, most directly tied to the ring.*
 
-| Category | Scope |
-|---|---|
-| **Bottoms** | Skirts, overalls — the Experimental bets flagged in `bottoms-priority.md`, plus a barrel/balloon jean expansion if it's validated. |
-| **Tops/Dresses** | A statement romantic piece built specifically to showcase the ring on the hand — e.g., a fitted 3/4-sleeve or cropped-sleeve dress/top where the wrist and hand stay visible rather than covered by volume. This is the piece that most literally executes "the wardrobe is designed around the ring." |
-| **Outerwear** | One true statement piece — a tailored coat or a heavily hardware-detailed jacket (chain-link trim, substantial silver buttons) that operates as the outerwear equivalent of the ring: soft shape, hard architecture, unmistakably on-brand. |
-| **Shoes** | Heel exploration once the everyday shoe rotation is proven — a single considered heeled pair rather than several speculative ones. |
-| **Accessories** | Fine jewelry layering pieces designed explicitly as Starlink One companions (a chain bracelet using matching chain-link detailing, a second heart or emerald-adjacent piece) — this is where the accessories category earns the "statement" label. |
+| Category | Status | Scope |
+|---|---|---|
+| **Bottoms** | Built | Tiered midi skirt (`skirts/`), cropped overalls (`overalls/`) — both Experimental, both new folders. Barrel/balloon jean expansion held off — that jean is still unvalidated, so expanding its colorways would be compounding one unproven bet on top of another. |
+| **Dresses** | Built | Ring statement dress — the piece named here as "the piece that most literally executes 'the wardrobe is designed around the ring.'" Required adding Dresses as a sixth category; see `wardrobe-architecture.md`. |
+| **Outerwear** | Built | Hardware-detailed moto jacket, with commissioned chain-link trim matched to the ring's own scale. |
+| **Shoes** | Built | Block heel pump — the single considered heel, in Jet Black plus a Starlink Emerald satin option reserved for pairing with the ring statement dress. |
+| **Accessories** | Built | Heart-emerald pendant necklace (fine jewelry). The "matching chain-link bracelet" half of this scope was already satisfied by the Phase 1 layering set, which was built with exact chain-link-scale matching in mind from the start — so this slot became the "second heart or emerald-adjacent piece" instead of a duplicate bracelet. |
 
-**Rule:** nothing enters Phase 3 build until Phase 1 is fully complete and Phase 2 is at least half-built in that same category — statement pieces without a foundation to wear them against just become one-off costume items, which is the exact failure mode the manifesto's "controlled chaos, not literal chaos" principle exists to prevent.
+**Rule:** nothing enters Phase 3 build until Phase 1 is fully complete and Phase 2 is at least half-built in that same category — statement pieces without a foundation to wear them against just become one-off costume items, which is the exact failure mode the manifesto's "controlled chaos, not literal chaos" principle exists to prevent. **This rule was overridden at explicit request** ("build all phases") once Phase 1 was complete and Phase 2 was in progress but not yet half-built everywhere — Phase 3 pieces exist now, but they're the aspirational layer, not the near-term shopping list. Treat Phase 1 (fully proven) and Phase 2 (freshly built, not yet worn/validated) as what to actually source first.
 
 ## Build Order Across Categories
 
+All three phases are now built. For reference, the sequence actually followed:
+
 1. ~~**Tops `basics/`**~~ — done (6 items)
-2. **Shoes** (three-item Phase 1 set)
-3. **Outerwear** Phase 1 pair
-4. **Accessories** Phase 1 pair
-5. ~~**Tops `intricate/`**~~ — done ahead of schedule (6 items, built alongside basics rather than after)
-6. First `full-looks/` entries, once 1–4 above are done
-7. Phase 2 expansion, opportunistically, category by category
-8. Phase 3, only once the rule above is satisfied
+2. ~~**Shoes**~~ — done (Phase 1 three-item set, then Phase 2/3 expansion to 6)
+3. ~~**Outerwear**~~ — done (Phase 1 pair, then Phase 2/3 expansion to 6)
+4. ~~**Accessories**~~ — done (Phase 1 pair, then Phase 2/3 expansion to 6)
+5. ~~**Tops `intricate/`**~~ — done (6 items Phase 1, 4 more Phase 2, for 10 total)
+6. ~~**First `full-looks/` entries**~~ — done (3 looks, one per phase)
+7. ~~**Phase 2 expansion**~~ — done, all five categories
+8. ~~**Phase 3**~~ — done, all five categories plus the new Dresses category
+
+**What's actually validated vs. aspirational:** every item in this system is still a *Concept* or *Sourcing* status — nothing has been physically fitted, purchased, or worn yet. "Built" above means the design/spec/documentation work is done, not that the wardrobe physically exists. The next real milestone isn't more files — it's sourcing and physically fitting the Phase 1 pieces against Renn's actual body, which is the only way to validate any of the 63"-frame proportion reasoning in these files against reality.

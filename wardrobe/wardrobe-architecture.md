@@ -4,40 +4,45 @@
 
 ---
 
-## The Five Categories
+## The Six Categories
+
+*Originally five — Dresses was added during Phase 3 once a piece existed that didn't fit cleanly under Tops or Bottoms. See the note at the end of that section.*
 
 ### Tops (`/tops/`)
 Split into two subfolders, matching the manifesto's soft/structure duality:
-- **`basics/`** — solid tees, tanks, long-sleeves, base layers. Quiet, high-rotation, mostly Cloud Ivory / Sterling Grey / Midnight Navy. These exist to be layered under or paired with an intricate piece — they are not where the whimsy lives.
-- **`intricate/`** — the LoveShackFancy x Target DNA: puff-sleeve blouses, smocked bodices, lace-trim camisoles, ribbon-tie necklines, ruffle detailing. This is where Blush Mauve, Periwinkle, and Lavender Mist do the most work. Every intricate top needs the manifesto's "one hard detail" — a structured cuff, a corseted or smocked bodice panel, a substantial (not flimsy) base fabric under any lace.
+- **`basics/`** — solid tees, tanks, long-sleeves, base layers. Quiet, high-rotation, mostly Cloud Ivory / Sterling Grey / Midnight Navy. These exist to be layered under or paired with an intricate piece — they are not where the whimsy lives. **Built: 6 items.**
+- **`intricate/`** — the LoveShackFancy x Target DNA: puff-sleeve blouses, smocked bodices, lace-trim camisoles, ribbon-tie necklines, ruffle detailing. This is where Blush Mauve, Periwinkle, and Lavender Mist do the most work. Every intricate top needs the manifesto's "one hard detail" — a structured cuff, a corseted or smocked bodice panel, a substantial (not flimsy) base fabric under any lace. **Built: 10 items**, including the puff-sleeve blouse and smocked top named in the Core Aesthetic Vision.
 
 ### Bottoms (`/bottoms/`)
-Already the most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) for the full ranking. Five subfolders: `jeans/`, `leggings/`, `shorts/`, `trousers/`, plus skirts and overalls tracked as Experimental (no dedicated folder yet — add one if either graduates past the bet stage).
+The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) for the full ranking. Seven subfolders: `jeans/` (10), `leggings/` (8), `shorts/` (8), `trousers/` (2), `joggers/` (1), `skirts/` (1, Experimental), `overalls/` (1, Experimental) — skirts and overalls graduated from "no dedicated folder yet" once their first Experimental bet landed.
 
 ### Outerwear (`/outerwear/`)
-Not yet built out. Planned subcategories:
-- **Structured layers** — denim jacket, cropped moto (hardware in silver only, per the color system), tailored blazer for the Medium-priority dressier occasions.
-- **Soft layers** — cardigans (chunky knit and lightweight), quilted or puffer vest/jacket in a soft-technical fabric.
-- **Romantic layers** — kimono duster, lightweight trench, anything with movement/drape that reads as the "soft" half of an otherwise structured outfit. This is the outerwear subcategory most directly pulling from the LoveShackFancy reference.
+**Built: 6 items.**
+- **Structured layers** — cropped denim jacket (Phase 1), lightweight trench (Phase 2), hardware-detailed moto jacket (Phase 3 statement, chain-link trim in silver only per the color system).
+- **Soft layers** — chunky knit cardigan (Phase 1), quilted vest (Phase 2, soft-technical).
+- **Romantic layers** — kimono duster (Phase 2) — the outerwear subcategory pulling most directly from the LoveShackFancy reference.
 
 ### Shoes (`/shoes/`)
-Not yet built out. Planned subcategories, every one fit-checked against a 63" frame (heel height changes leg-line math more at this height than at a taller one, so it gets documented per item, not assumed):
-- **Everyday flats** — ballet flats, mary janes (romantic, on-aesthetic, need a cushioned footbed since they'll be worn constantly).
-- **Sneakers** — clean white/neutral pair as the "quiet structure" workhorse, same logic as the straight-leg jean.
-- **Boots** — ankle boot as the cool-weather everyday driver.
-- **Heels** — low-to-mid block or kitten heel only; a 63" frame gets more usable lengthening from a moderate heel worn often than a high heel worn rarely. Track as Medium/Experimental.
-- **Sandals** — seasonal, romantic (ribbon-tie or delicate strap detailing reads on-aesthetic here).
+**Built: 6 items.** Every one fit-checked against a 63" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed):
+- **Everyday flats** — ballet flat (Phase 1).
+- **Sneakers** — clean sneaker (Phase 1), the "quiet structure" workhorse, same logic as the straight-leg jean.
+- **Boots** — heeled ankle boot (Phase 1), knee-high boot (Phase 2).
+- **Heels** — block heel pump (Phase 3 statement) — the single considered heel, not a speculative category.
+- **Sandals** — ribbon-tie sandal (Phase 2), seasonal and romantic.
 
 ### Accessories (`/accessories/`)
-Not yet built out. This category carries the most direct Starlink One integration in the whole system:
-- **Layering jewelry** — necklaces, bracelets, second/third rings — sterling silver only, chain-link detailing as a deliberate callback to the ring's own chain-link motif. This is where the ring gets "matched," not competed with.
-- **Hair** — ribbons, bows, silk scrunchies — a signature LoveShackFancy x Target detail category, pulls heavily from Blush Mauve/Lavender Mist/Periwinkle.
-- **Belts** — chain-link belt is the single most direct hardware echo of Starlink One available in the accessories category; treat as a near-guaranteed Phase 2 build once outerwear/bottoms basics are solid.
-- **Bags** — one everyday crossbody/tote (Must-Have, neutral colorway) before any statement bag.
-- **Scarves** — lightweight, floral or solid on-palette, styling flexibility (neck, bag, hair).
+**Built: 6 items.** This category carries the most direct Starlink One integration in the whole system:
+- **Layering jewelry** — sterling silver layering necklace/bracelet set (Phase 1), a heart-emerald statement pendant (Phase 3 fine jewelry) — chain-link detailing and stone color are deliberate callbacks to the ring's own design. This is where the ring gets "matched," not competed with.
+- **Hair** — ribbons and silk scrunchies (Phase 2) — a signature LoveShackFancy x Target detail category, pulling heavily from Blush Mauve/Lavender Mist/Periwinkle.
+- **Belts** — chain-link belt (Phase 2) — the single most direct hardware echo of Starlink One available in the accessories category.
+- **Bags** — everyday crossbody bag (Phase 1, neutral colorway) before any statement bag.
+- **Scarves** — everyday silk scarf (Phase 2), styling flexibility (neck, bag, hair).
+
+### Dresses (`/dresses/`)
+**Added during Phase 3.** A dress replaces both a top and a bottom at once and doesn't belong filed under either — this category exists because the Phase 3 build plan called for "a statement romantic piece built specifically to showcase the ring," and that piece turned out to be a dress. **Built: 1 item** — the ring statement dress. Stays intentionally small; this is occasion dressing, not everyday rotation.
 
 ## Full Looks (`/full-looks/`)
-Not a garment category — this is the assembly layer. Once enough pieces exist across categories, `full-looks/` documents complete outfits (which top + bottom + shoe + accessory + outerwear) to prove the palette and architecture actually combine the way this doc claims they do. Don't start building this out until at least Phase 1 is complete in three or more categories — assembling looks from a half-built wardrobe just produces speculative outfits nobody can act on.
+Not a garment category — this is the assembly layer. **Built: 3 looks**, spanning Phase 1 (two everyday looks) through Phase 3 (one statement going-out look), each documenting a complete outfit and checking it against the color system and the ring.
 
 ## Cross-Category Rules
 
