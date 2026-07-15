@@ -10,5 +10,6 @@
 | 06 | Heart-emerald pendant necklace | Experimental (Phase 3) | 3 | [`06-heart-emerald-pendant-necklace.md`](06-heart-emerald-pendant-necklace.md) |
 | 07 | Statement shoulder bag | Medium | 2 | [`07-statement-shoulder-bag.md`](07-statement-shoulder-bag.md) |
 | 08 | Soft gloves | Medium | 2 Soft Cold | [`08-soft-gloves.md`](08-soft-gloves.md) |
+| 09 | Evening clutch | Medium | Soft Formal | [`09-evening-clutch.md`](09-evening-clutch.md) |
 
-Heaviest direct Starlink One integration in the wardrobe — chain-link jewelry/belts, sterling silver family only, stone-color echo in the Phase 3 pendant. Bags: everyday crossbody first, statement shoulder after that validates. Silver/gunmetal hardware is a hard rule on every bag and glove clasp.
+Heaviest direct Starlink One integration in the wardrobe — chain-link jewelry/belts, sterling silver family only, stone-color echo in the Phase 3 pendant. Bags: everyday crossbody → statement shoulder → evening clutch (formal scale). Silver/gunmetal hardware is a hard rule on every bag and glove clasp.

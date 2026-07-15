@@ -25,13 +25,10 @@
 | **Aesthetic** | LoveShackFancy silhouette language × Target wearability |
 | **Fixed reference** | [Starlink One](../ring/README.md) — sterling silver + emerald; hardware is silver-family only |
 | **Palette** | 9 colors (see below) |
-| **Garment/accessory specs** | **88** item files + Anchor Heel system |
-| **Full looks** | **11** assembled outfits |
-| **Priority split** | Must-Have 18 · High 25 · Medium 22 · Experimental 23 |
-| **Soft Light** | [`translucent-system.md`](translucent-system.md) |
-| **Soft Heat** | [`warm-season-system.md`](warm-season-system.md) |
-| **Soft Cold** | [`cold-season-system.md`](cold-season-system.md) |
-| **Shop next** | Phase 1 → then Soft Light / Soft Heat / Soft Cold shortlists |
+| **Garment/accessory specs** | **94** item files + Anchor Heel system |
+| **Full looks** | **14** assembled outfits |
+| **Soft Light / Heat / Cold / Formal** | Seasonal + event doctrines |
+| **Shop next** | Phase 1 → seasonal shortlists → Soft Formal when events exist |
 
 ### Palette (quick ref)
 
@@ -57,7 +54,7 @@ Full pairing rules: [`color-system.md`](color-system.md).
 
 **Brand-level buy waves:**
 1. [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) — **Wave A first**
-2. Then (by season/register): [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) · [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) · [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md)
+2. Then (by season/register): Soft Light · Soft Heat · Soft Cold · Soft Formal shortlists under `wardrobe/`
 
 ### Must-Have core (buy / validate first)
 
@@ -219,7 +216,7 @@ See also [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) and [`bott
 
 ---
 
-### Outerwear (9)
+### Outerwear (11)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
@@ -232,6 +229,8 @@ See also [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) and [`bott
 | 07 | Sheer organza duster (Soft Light) | Experimental | Concept | [`outerwear/07-sheer-organza-duster.md`](outerwear/07-sheer-organza-duster.md) |
 | 08 | Lightweight tailored blazer | High | Concept | [`outerwear/08-tailored-blazer.md`](outerwear/08-tailored-blazer.md) |
 | 09 | Wool wrap / winter coat | High | Concept | [`outerwear/09-wool-wrap-coat.md`](outerwear/09-wool-wrap-coat.md) |
+| 10 | Soft formal suit | Medium | Concept | [`outerwear/10-soft-formal-suit.md`](outerwear/10-soft-formal-suit.md) |
+| 11 | Evening wrap / dressy coat | Medium | Concept | [`outerwear/11-evening-wrap-coat.md`](outerwear/11-evening-wrap-coat.md) |
 
 ---
 
@@ -268,7 +267,7 @@ Catalogue index: [`shoes/README.md`](shoes/README.md).
 
 ---
 
-### Accessories (8)
+### Accessories (9)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
@@ -280,20 +279,24 @@ Catalogue index: [`shoes/README.md`](shoes/README.md).
 | 06 | Heart-emerald pendant necklace | Experimental (Phase 3) | Concept | [`accessories/06-heart-emerald-pendant-necklace.md`](accessories/06-heart-emerald-pendant-necklace.md) |
 | 07 | Statement shoulder bag | Medium | Concept | [`accessories/07-statement-shoulder-bag.md`](accessories/07-statement-shoulder-bag.md) |
 | 08 | Soft gloves | Medium | Concept | [`accessories/08-soft-gloves.md`](accessories/08-soft-gloves.md) |
+| 09 | Evening clutch | Medium | Concept | [`accessories/09-evening-clutch.md`](accessories/09-evening-clutch.md) |
 
 ---
 
-### Dresses (3)
+### Dresses (6)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
 | 01 | Ring statement dress | Experimental (Phase 3) | Concept | [`dresses/01-ring-statement-dress.md`](dresses/01-ring-statement-dress.md) |
 | 02 | Sheer overlay dress (Soft Light) | Experimental | Concept | [`dresses/02-sheer-overlay-dress.md`](dresses/02-sheer-overlay-dress.md) |
 | 03 | Soft day dress | High | Concept | [`dresses/03-soft-day-dress.md`](dresses/03-soft-day-dress.md) |
+| 04 | Soft formal midi | High (Soft Formal) | Concept | [`dresses/04-soft-formal-midi-dress.md`](dresses/04-soft-formal-midi-dress.md) |
+| 05 | Cocktail / evening dress | Medium | Concept | [`dresses/05-cocktail-evening-dress.md`](dresses/05-cocktail-evening-dress.md) |
+| 06 | Long formal dress | Experimental | Concept | [`dresses/06-long-formal-dress.md`](dresses/06-long-formal-dress.md) |
 
 ---
 
-### Full Looks (11)
+### Full Looks (14)
 
 | # | Look | Phase | File |
 |---|---|---|---|
@@ -308,6 +311,9 @@ Catalogue index: [`shoes/README.md`](shoes/README.md).
 | 08 | Blazer elevated day | 2 Soft Heat | [`full-looks/08-blazer-elevated-day.md`](full-looks/08-blazer-elevated-day.md) |
 | 09 | Cold errand day | 2 Soft Cold | [`full-looks/09-cold-errand-look.md`](full-looks/09-cold-errand-look.md) |
 | 10 | Cold elevated day | 2 Soft Cold | [`full-looks/10-cold-elevated-look.md`](full-looks/10-cold-elevated-look.md) |
+| 11 | Wedding guest soft | Soft Formal | [`full-looks/11-wedding-guest-soft.md`](full-looks/11-wedding-guest-soft.md) |
+| 12 | Emerald ceremony | Soft Formal | [`full-looks/12-emerald-ceremony-look.md`](full-looks/12-emerald-ceremony-look.md) |
+| 13 | Black-tie optional suit | Soft Formal | [`full-looks/13-black-tie-optional-suit.md`](full-looks/13-black-tie-optional-suit.md) |
 
 ---
 
@@ -330,6 +336,7 @@ Rotation depth and seasonal coverage:
 | Soft Light | After basics exist: sheer long-sleeve base + organza blouse first; see [`translucent-system.md`](translucent-system.md) |
 | Soft Heat | Warm-season capsule map — [`warm-season-system.md`](warm-season-system.md) |
 | Soft Cold | Turtleneck, wool coat, gloves after Phase 1 — [`cold-season-system.md`](cold-season-system.md) |
+| Soft Formal | After elevated day: formal midi first — [`formal-system.md`](formal-system.md), [`soft-formal-shopping-shortlist.md`](soft-formal-shopping-shortlist.md) |
 
 ### Phase 3 — Statement *(aspirational; not the shopping list)*
 Ring-forward, Chaos-specific pieces — built in the docs early by request:
@@ -359,21 +366,14 @@ Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, s
 | Bottoms — leggings | 8 |
 | Bottoms — shorts | 8 |
 | Bottoms — trousers / joggers / skirts / overalls | 6 |
-| Outerwear | 9 |
+| Outerwear | 11 |
 | Shoes (numbered) | 9 |
 | Shoes — Anchor Heel system | 1 system (3 variants) |
 | Shoes — Soft Structure jelly | 5 |
-| Accessories | 8 |
-| Dresses | 3 |
-| **Item specs total** | **88 + Anchor Heel** |
-| Full looks | 11 |
-
-| Priority | Count |
-|---|---|
-| Must-Have | 18 |
-| High | 25 |
-| Medium | 22 |
-| Experimental (incl. Phase 3, jelly, Soft Light) | 23 |
+| Accessories | 9 |
+| Dresses | 6 |
+| **Item specs total** | **94 + Anchor Heel** |
+| Full looks | 14 |
 
 | Status | Meaning |
 |---|---|
@@ -399,6 +399,8 @@ Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, s
 | [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) | Soft Light buy waves |
 | [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) | Soft Heat + jelly buy waves |
 | [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md) | Soft Cold buy waves |
+| [`formal-system.md`](formal-system.md) | Soft Formal doctrine |
+| [`soft-formal-shopping-shortlist.md`](soft-formal-shopping-shortlist.md) | Soft Formal buy waves |
 | [`priority-system.md`](priority-system.md) | Tier definitions |
 | [`item-template.md`](item-template.md) | New-item template |
 | [`../ring/README.md`](../ring/README.md) | Starlink One |

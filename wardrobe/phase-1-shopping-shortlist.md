@@ -74,6 +74,7 @@
 | **Soft Light** | [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) | After Wave A; opacity map discipline |
 | **Soft Heat** | [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) | After Wave A; warm months; jelly hero-first |
 | **Soft Cold** | [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md) | After Wave A; cold months; coat last among cold shells |
+| **Soft Formal** | [`soft-formal-shopping-shortlist.md`](soft-formal-shopping-shortlist.md) | After Wave A + soft day dress/blazer; real events only |
 
 ---
 
@@ -97,7 +98,8 @@ Use the dedicated shortlists — do not freestyle:
 | Soft Light | [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) | [`translucent-system.md`](translucent-system.md) |
 | Soft Heat (+ jelly) | [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) | [`warm-season-system.md`](warm-season-system.md) |
 | Soft Cold | [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md) | [`cold-season-system.md`](cold-season-system.md) |
-| Phase 3 statement | Ring dress, moto, block pump, heart pendant | [`build-plan.md`](build-plan.md) |
+| Soft Formal | [`soft-formal-shopping-shortlist.md`](soft-formal-shopping-shortlist.md) | [`formal-system.md`](formal-system.md) |
+| Phase 3 / Chaos night | Ring dress, moto, block pump, heart pendant | [`build-plan.md`](build-plan.md) / look 03 — not Soft Formal |
 
 ---
 

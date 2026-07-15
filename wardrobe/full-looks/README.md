@@ -19,6 +19,9 @@ Master index (with shopping priority): [`../full-wardrobe.md`](../full-wardrobe.
 | 08 | Blazer elevated day | 2 Soft Heat elevated | [`08-blazer-elevated-day.md`](08-blazer-elevated-day.md) |
 | 09 | Cold errand day | 2 Soft Cold | [`09-cold-errand-look.md`](09-cold-errand-look.md) |
 | 10 | Cold elevated day | 2 Soft Cold elevated | [`10-cold-elevated-look.md`](10-cold-elevated-look.md) |
+| 11 | Wedding guest soft | Soft Formal | [`11-wedding-guest-soft.md`](11-wedding-guest-soft.md) |
+| 12 | Emerald ceremony | Soft Formal / ring-forward | [`12-emerald-ceremony-look.md`](12-emerald-ceremony-look.md) |
+| 13 | Black-tie optional suit | Soft Formal | [`13-black-tie-optional-suit.md`](13-black-tie-optional-suit.md) |
 
 ## Rules
 
@@ -27,5 +30,6 @@ Master index (with shopping priority): [`../full-wardrobe.md`](../full-wardrobe.
 3. Hardware stays silver-family only.
 4. Note how the wrist/hand area treats Starlink One (recede so the ring leads, or intentional echo).
 5. Soft Light looks also check the opacity map and one-loud-element rule in [`../translucent-system.md`](../translucent-system.md).
+6. Soft Formal looks check [`../formal-system.md`](../formal-system.md) — no moto, silver only, one Emerald field.
 
-Phase 1 looks are the near-term wear-test targets. Phase 3 and Soft Light / Soft Structure looks are aspirational until Phase 1 pieces are actually sourced and fitted.
+Phase 1 looks are the near-term wear-test targets. Phase 3, Soft Light / Soft Structure, Soft Cold, and Soft Formal looks are aspirational until Phase 1 pieces are actually sourced and fitted.
