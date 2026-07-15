@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Sourcing
 
-*Renamed and upgraded as part of the full 8-shoe catalogue — see [`README.md`](README.md).*
+*Renamed and upgraded as part of the full 8-shoe catalogue — see [`README.md`](README.md). Full vision document and Shenzhen manufacturing brief now live at [`hug-boot/`](hug-boot/); this file remains as the original sourcing-stage concept note.*
 
 ## Why It Works for Her Frame (64")
 - This is the shoe the jeans system's fit math explicitly assumes: `bottoms/jeans/jeans-template.md` names a heeled ankle boot as the pairing that completes wide-leg, flare, and bootcut jeans' leg-lengthening effect — without it, those silhouettes lose part of their intended proportion.

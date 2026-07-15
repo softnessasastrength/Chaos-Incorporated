@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Concept
 
-*Part of the full 8-shoe catalogue — see [`README.md`](README.md). Fills a genuine functional gap the rest of the shoe system doesn't cover: nothing else in the catalogue is built for actual wet/icy weather.*
+*Part of the full 8-shoe catalogue — see [`README.md`](README.md). Fills a genuine functional gap the rest of the shoe system doesn't cover: nothing else in the catalogue is built for actual wet/icy weather. Full vision document and Shenzhen manufacturing brief now live at [`rain-snow-boot/`](rain-snow-boot/); this file remains as the original sourcing-stage concept note.*
 
 ## Why It Works for Her Frame (64")
 - Chelsea silhouette keeps the clean, close-fitting ankle line consistent with the Hug Boot rather than introducing a bulky, clunky waterproof-boot shape that would look out of place next to the rest of the wardrobe.

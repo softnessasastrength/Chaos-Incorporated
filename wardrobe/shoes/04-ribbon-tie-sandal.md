@@ -5,7 +5,7 @@
 **Priority:** Medium
 **Status:** Concept
 
-*Renamed and upgraded as part of the full 8-shoe catalogue — see [`README.md`](README.md). Now built as two named versions sharing one footbed and strap-construction philosophy, rather than a single style.*
+*Renamed and upgraded as part of the full 8-shoe catalogue — see [`README.md`](README.md). Now built as two named versions sharing one footbed and strap-construction philosophy, rather than a single style. Full vision document and Shenzhen manufacturing brief now live at [`barely-there-sandal/`](barely-there-sandal/); this file remains as the original sourcing-stage concept note.*
 
 ## Why It Works for Her Frame (64")
 - A wrap/ribbon-tie ankle strap (Everyday version) adds a small visual anchor at the ankle, which reads as intentional rather than a bare flat sandal disappearing against a shorter leg.

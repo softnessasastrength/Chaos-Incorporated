@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-*Renamed and upgraded as part of the full 8-shoe catalogue — see [`README.md`](README.md). One real tension worth flagging here: the catalogue brief asks for a "chunky dad-sneaker" silhouette, but this item's original spec deliberately went low-profile specifically because a bulky sole shortens the leg line on a 64" frame the same way excess bottoms volume does. Resolved below by capping the "chunky" read well short of true dad-sneaker trend proportions — see the sole height note.*
+*Renamed and upgraded as part of the full 8-shoe catalogue — see [`README.md`](README.md). One real tension worth flagging here: the catalogue brief asks for a "chunky dad-sneaker" silhouette, but this item's original spec deliberately went low-profile specifically because a bulky sole shortens the leg line on a 64" frame the same way excess bottoms volume does. Resolved below by capping the "chunky" read well short of true dad-sneaker trend proportions — see the sole height note. Full vision document and Shenzhen manufacturing brief now live at [`cloud-walker/`](cloud-walker/); this file remains as the original sourcing-stage concept note.*
 
 ## Why It Works for Her Frame (64")
 - **The chunky/proportion tension, resolved:** a full dad-sneaker sole (often 2"+ stack) would work directly against the frame math the rest of this shoe category is built on. This piece takes the *silhouette cues* of a chunky sneaker (a more substantial, rounded midsole profile, visible layered sole construction) without taking the full stack height — capped at ~1.25–1.5" total sole height, elevated from the original ~1" low-profile spec but well under true chunky-trend proportions. Reads as "elegant chunky," not "platform sneaker."

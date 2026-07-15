@@ -5,7 +5,7 @@
 **Priority:** Experimental
 **Status:** Concept
 
-*Part of the full 8-shoe catalogue — see [`README.md`](README.md). Sits alongside [`06-block-heel-pump.md`](06-block-heel-pump.md) in the going-out register — a different silhouette (open-back mule vs. closed pump), not a duplicate.*
+*Part of the full 8-shoe catalogue — see [`README.md`](README.md). Sits alongside [`06-block-heel-pump.md`](06-block-heel-pump.md) in the going-out register — a different silhouette (open-back mule vs. closed pump), not a duplicate. Full vision document and Shenzhen manufacturing brief now live at [`statement-mule/`](statement-mule/); this file remains as the original sourcing-stage concept note.*
 
 ## Why It Works for Her Frame (64")
 - An open back elongates the visible line of the foot and ankle — no back strap or heel counter breaking up the leg the way a closed shoe does, which reads as leg-lengthening in a genuinely different way than heel height alone.
