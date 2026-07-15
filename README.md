@@ -13,7 +13,7 @@ This repository contains all custom designs, wardrobe planning, technical specif
 
 ## Structure
 - `/ring/` — All files related to Starlink One
-- `/wardrobe/` — Full fashion system (start at [`wardrobe/full-wardrobe.md`](wardrobe/full-wardrobe.md) for the master inventory + Phase 1 shopping checklist)
+- `/wardrobe/` — Full fashion system (inventory: [`wardrobe/full-wardrobe.md`](wardrobe/full-wardrobe.md); shop next: [`wardrobe/phase-1-shopping-shortlist.md`](wardrobe/phase-1-shopping-shortlist.md))
 - `/packaging/` — Unboxing experience and manufacturing spec
 - `/watch/` — Starlink Watch design concept
 - `/objects/` — Future custom objects (pen, etc.)

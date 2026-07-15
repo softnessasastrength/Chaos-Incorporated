@@ -47,6 +47,8 @@ Phases are about *sequence*, not exclusively priority tier — Phase 1 is "what 
 | **Accessories** | Built | Chain-link belt, hair ribbons & scrunchies, everyday scarf. |
 | **Soft Light (translucent)** | Built (docs) | Cross-category Experimental register — doctrine in `translucent-system.md`; kit = sheer long-sleeve base, organza blouse, lace panel cami, translucent midi, sheer organza duster, sheer overlay dress; full looks 04–07. **Source after Phase 1 Must-Haves and core basics;** opacity map non-negotiable. |
 | **Soft Heat (warm season)** | Built (docs) | Capsule map in `warm-season-system.md` — ties jelly + Soft Light + soft day dress + lightweight blazer + statement bag; full looks 04–08. **Source after Phase 1 Must-Haves.** |
+| **Soft Cold (cold season)** | Built (docs) | Capsule map in `cold-season-system.md` — turtleneck, wool wrap coat, soft gloves + existing fleece legging / rain boot / scarf; full looks 09–10. **Source after Phase 1 Must-Haves.** |
+| **Phase 1 shortlist** | Built | Brand-level buy waves in `phase-1-shopping-shortlist.md` — the practical next step after docs. |
 
 ### Phase 3 — Statement Pieces
 *Goal: the pieces that make this specifically Renn's wardrobe and specifically Chaos Incorporated — lower quantity, higher intentionality, most directly tied to the ring.*
@@ -74,4 +76,4 @@ All three phases are now built. For reference, the sequence actually followed:
 7. ~~**Phase 2 expansion**~~ — done, all five categories
 8. ~~**Phase 3**~~ — done, all five categories plus the new Dresses category
 
-**What's actually validated vs. aspirational:** every item in this system is still a *Concept* or *Sourcing* status — nothing has been physically fitted, purchased, or worn yet. "Built" above means the design/spec/documentation work is done, not that the wardrobe physically exists. The next real milestone isn't more files — it's sourcing and physically fitting the Phase 1 pieces against Renn's actual body, which is the only way to validate any of the 64"-frame proportion reasoning in these files against reality.
+**What's actually validated vs. aspirational:** every item in this system is still a *Concept* or *Sourcing* status — nothing has been physically fitted, purchased, or worn yet. "Built" above means the design/spec/documentation work is done, not that the wardrobe physically exists. The next real milestone isn't more files — it's sourcing and physically fitting the Phase 1 pieces against Renn's actual body, which is the only way to validate any of the 64"-frame proportion reasoning in these files against reality. Start with [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) (buy wave A).

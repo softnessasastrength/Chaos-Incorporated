@@ -17,6 +17,8 @@ Master index (with shopping priority): [`../full-wardrobe.md`](../full-wardrobe.
 | 06 | Emerald light | 3-adjacent Soft Light | [`06-emerald-light-look.md`](06-emerald-light-look.md) |
 | 07 | Evening veil | 2–3 Soft Light evening | [`07-evening-veil-look.md`](07-evening-veil-look.md) |
 | 08 | Blazer elevated day | 2 Soft Heat elevated | [`08-blazer-elevated-day.md`](08-blazer-elevated-day.md) |
+| 09 | Cold errand day | 2 Soft Cold | [`09-cold-errand-look.md`](09-cold-errand-look.md) |
+| 10 | Cold elevated day | 2 Soft Cold elevated | [`10-cold-elevated-look.md`](10-cold-elevated-look.md) |
 
 ## Rules
 

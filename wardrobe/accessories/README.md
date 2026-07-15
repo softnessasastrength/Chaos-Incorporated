@@ -9,5 +9,6 @@
 | 05 | Everyday scarf | Medium | 2 | [`05-everyday-scarf.md`](05-everyday-scarf.md) |
 | 06 | Heart-emerald pendant necklace | Experimental (Phase 3) | 3 | [`06-heart-emerald-pendant-necklace.md`](06-heart-emerald-pendant-necklace.md) |
 | 07 | Statement shoulder bag | Medium | 2 | [`07-statement-shoulder-bag.md`](07-statement-shoulder-bag.md) |
+| 08 | Soft gloves | Medium | 2 Soft Cold | [`08-soft-gloves.md`](08-soft-gloves.md) |
 
-Heaviest direct Starlink One integration in the wardrobe — chain-link jewelry/belts, sterling silver family only, stone-color echo in the Phase 3 pendant. Bags: everyday crossbody first, statement shoulder after that validates. Silver/gunmetal hardware is a hard rule on every bag.
+Heaviest direct Starlink One integration in the wardrobe — chain-link jewelry/belts, sterling silver family only, stone-color echo in the Phase 3 pendant. Bags: everyday crossbody first, statement shoulder after that validates. Silver/gunmetal hardware is a hard rule on every bag and glove clasp.

@@ -10,5 +10,6 @@
 | 06 | Hardware moto jacket | Experimental (Phase 3) | [`06-hardware-moto-jacket.md`](06-hardware-moto-jacket.md) |
 | 07 | Sheer organza duster | Experimental (Soft Light) | [`07-sheer-organza-duster.md`](07-sheer-organza-duster.md) |
 | 08 | Lightweight tailored blazer | High | [`08-tailored-blazer.md`](08-tailored-blazer.md) |
+| 09 | Wool wrap / winter coat | High | [`09-wool-wrap-coat.md`](09-wool-wrap-coat.md) |
 
-Soft Light outerwear: [`../translucent-system.md`](../translucent-system.md). Soft Heat elevated structure: blazer in [`../warm-season-system.md`](../warm-season-system.md).
+Soft Light: [`../translucent-system.md`](../translucent-system.md). Soft Heat: [`../warm-season-system.md`](../warm-season-system.md). Soft Cold: [`../cold-season-system.md`](../cold-season-system.md).
