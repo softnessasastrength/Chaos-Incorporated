@@ -24,14 +24,14 @@ The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bott
 - **Romantic layers** — kimono duster (Phase 2) — the outerwear subcategory pulling most directly from the LoveShackFancy reference.
 
 ### Shoes (`/shoes/`)
-**Built: the full 8-shoe catalogue** (see [`shoes/README.md`](shoes/README.md) for the complete named list). Every one fit-checked against a 64" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed):
+**Built: the core 8-shoe catalogue + Anchor Heel system + Soft Structure jelly line** (see [`shoes/README.md`](shoes/README.md) for the complete named list). Every one fit-checked against a 64" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed):
 - **Everyday flats** — the Perfect Flat (Phase 1, ballet + loafer hybrid, hidden 0.5" wedge).
 - **Sneakers** — the Cloud Walker (Phase 1, elegant-chunky, Gore-Tex option), the "quiet structure" workhorse, same logic as the straight-leg jean.
 - **Boots** — the Hug Boot (Phase 1, Chelsea + Western hybrid, chain-link pull tab), knee-high boot (Phase 2), the Rain/Snow Boot (waterproof Chelsea — the one shoe in the whole system where the "moderate heel worn often" rule is deliberately overridden, since ice/wet-weather traction safety outranks leg-lengthening).
 - **Heels** — block heel pump + the Statement Mule (both Phase 3 statement, 2.5–3", rare-occasion, two different silhouettes not a duplicate); [`anchor-heel/`](anchor-heel/) "Anchor One" (Must-Have, 2.0–2.25", everyday) — the moderate-heel-worn-often piece this category's own README argued was the better investment, built out with its own full vision doc and manufacturing brief given how deep the spec runs (3 variations, dedicated tech pack).
-- **Sandals** — the Barely There Sandal (Phase 2, two versions: Everyday Strap and Dressy Slide, hybrid leather/fabric straps for durability without losing the delicate look).
+- **Sandals** — the Barely There Sandal (Phase 2, two versions: Everyday Strap and Dressy Slide, hybrid leather/fabric straps for durability without losing the delicate look) — romantic dry-weather open shoe.
 - **Recovery** — the Yoga/Recovery Shoe, the one shoe category with no competing design priority against maximum comfort.
-- **Sandals** — ribbon-tie sandal (Phase 2), seasonal and romantic.
+- **Jelly (Soft Structure)** — [`shoes/jelly/`](shoes/jelly/) Experimental seasonal sub-line (5 silhouettes, shared molded footbed + silver chain-link hardware). Fills warm-weather water / wipeable / translucent-color gap the leather sandal and rain boot don't cover. Documented exception to “patina over polish”: replaceable TPU/PVC, not heirloom. Hero everyday jelly flat sources first; expand only after trial.
 
 ### Accessories (`/accessories/`)
 **Built: 6 items.** This category carries the most direct Starlink One integration in the whole system:

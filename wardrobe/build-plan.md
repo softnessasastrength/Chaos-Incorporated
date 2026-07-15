@@ -43,7 +43,7 @@ Phases are about *sequence*, not exclusively priority tier — Phase 1 is "what 
 | **Bottoms** | Built | Wide-leg tailored trouser + straight-leg ponte trouser (`trousers/`), tapered jogger (new `joggers/` folder). Colorway expansion across existing jeans/leggings was not done piece-by-piece — most items already draw from the palette; see `color-system.md`'s "Breaking the Palette" note for the few that don't. |
 | **Tops** | Built | 4 more `intricate/` pieces: puff-sleeve blouse, smocked top, ribbon-tie camisole, tiered ruffle top — exactly the scope named here, including the two signature LoveShackFancy pieces (puff sleeve, smocking) the Core Aesthetic Vision named but Phase 1 hadn't built yet. |
 | **Outerwear** | Built | Kimono duster, quilted vest, lightweight trench — all three. |
-| **Shoes** | Built | Ribbon-tie sandal, knee-high boot (second boot option). |
+| **Shoes** | Built | Ribbon-tie sandal, knee-high boot (second boot option). **Plus (added post-Phase-2 map):** Soft Structure jelly line under `shoes/jelly/` — Experimental seasonal sub-line, five silhouettes documented; **source only after Phase 1 Must-Have shoes and the Barely There sandal are in motion**, hero everyday jelly flat first. |
 | **Accessories** | Built | Chain-link belt, hair ribbons & scrunchies, everyday scarf. |
 
 ### Phase 3 — Statement Pieces
