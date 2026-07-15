@@ -15,6 +15,8 @@ Master index (with shopping priority): [`../full-wardrobe.md`](../full-wardrobe.
 | 04 | Soft Structure translucent day | 2–3 Experimental | [`04-soft-structure-translucent-day.md`](04-soft-structure-translucent-day.md) |
 | 05 | Romantic filter | 2 Experimental Soft Light | [`05-romantic-filter-look.md`](05-romantic-filter-look.md) |
 | 06 | Emerald light | 3-adjacent Soft Light | [`06-emerald-light-look.md`](06-emerald-light-look.md) |
+| 07 | Evening veil | 2–3 Soft Light evening | [`07-evening-veil-look.md`](07-evening-veil-look.md) |
+| 08 | Blazer elevated day | 2 Soft Heat elevated | [`08-blazer-elevated-day.md`](08-blazer-elevated-day.md) |
 
 ## Rules
 

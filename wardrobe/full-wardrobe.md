@@ -25,10 +25,11 @@
 | **Aesthetic** | LoveShackFancy silhouette language × Target wearability |
 | **Fixed reference** | [Starlink One](../ring/README.md) — sterling silver + emerald; hardware is silver-family only |
 | **Palette** | 9 colors (see below) |
-| **Garment/accessory specs** | **82** item files + Anchor Heel system (includes Soft Structure jelly + Soft Light translucent kit) |
-| **Full looks** | **7** assembled outfits |
-| **Priority split** | Must-Have 18 · High 21 · Medium 20 · Experimental 23 |
+| **Garment/accessory specs** | **85** item files + Anchor Heel system (jelly + Soft Light + Soft Heat expansion) |
+| **Full looks** | **9** assembled outfits |
+| **Priority split** | Must-Have 18 · High 23 · Medium 21 · Experimental 23 |
 | **Soft Light** | [`translucent-system.md`](translucent-system.md) — sheer/translucent doctrine |
+| **Soft Heat** | [`warm-season-system.md`](warm-season-system.md) — warm-weather capsule |
 
 ### Palette (quick ref)
 
@@ -211,7 +212,7 @@ See also [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) and [`bott
 
 ---
 
-### Outerwear (7)
+### Outerwear (8)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
@@ -222,6 +223,7 @@ See also [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) and [`bott
 | 05 | Lightweight trench | Medium | Concept | [`outerwear/05-lightweight-trench.md`](outerwear/05-lightweight-trench.md) |
 | 06 | Hardware-detailed moto jacket | Experimental (Phase 3) | Concept | [`outerwear/06-hardware-moto-jacket.md`](outerwear/06-hardware-moto-jacket.md) |
 | 07 | Sheer organza duster (Soft Light) | Experimental | Concept | [`outerwear/07-sheer-organza-duster.md`](outerwear/07-sheer-organza-duster.md) |
+| 08 | Lightweight tailored blazer | High | Concept | [`outerwear/08-tailored-blazer.md`](outerwear/08-tailored-blazer.md) |
 
 ---
 
@@ -258,7 +260,7 @@ Catalogue index: [`shoes/README.md`](shoes/README.md).
 
 ---
 
-### Accessories (6)
+### Accessories (7)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
@@ -268,19 +270,21 @@ Catalogue index: [`shoes/README.md`](shoes/README.md).
 | 04 | Hair ribbons & scrunchies | High | Concept | [`accessories/04-hair-ribbons-scrunchies.md`](accessories/04-hair-ribbons-scrunchies.md) |
 | 05 | Everyday scarf | Medium | Concept | [`accessories/05-everyday-scarf.md`](accessories/05-everyday-scarf.md) |
 | 06 | Heart-emerald pendant necklace | Experimental (Phase 3) | Concept | [`accessories/06-heart-emerald-pendant-necklace.md`](accessories/06-heart-emerald-pendant-necklace.md) |
+| 07 | Statement shoulder bag | Medium | Concept | [`accessories/07-statement-shoulder-bag.md`](accessories/07-statement-shoulder-bag.md) |
 
 ---
 
-### Dresses (2)
+### Dresses (3)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
 | 01 | Ring statement dress | Experimental (Phase 3) | Concept | [`dresses/01-ring-statement-dress.md`](dresses/01-ring-statement-dress.md) |
 | 02 | Sheer overlay dress (Soft Light) | Experimental | Concept | [`dresses/02-sheer-overlay-dress.md`](dresses/02-sheer-overlay-dress.md) |
+| 03 | Soft day dress | High | Concept | [`dresses/03-soft-day-dress.md`](dresses/03-soft-day-dress.md) |
 
 ---
 
-### Full Looks (7)
+### Full Looks (9)
 
 | # | Look | Phase | File |
 |---|---|---|---|
@@ -291,6 +295,8 @@ Catalogue index: [`shoes/README.md`](shoes/README.md).
 | 04 | Soft Structure translucent day | 2–3 Experimental | [`full-looks/04-soft-structure-translucent-day.md`](full-looks/04-soft-structure-translucent-day.md) |
 | 05 | Romantic filter | 2 Soft Light | [`full-looks/05-romantic-filter-look.md`](full-looks/05-romantic-filter-look.md) |
 | 06 | Emerald light | 3-adjacent Soft Light | [`full-looks/06-emerald-light-look.md`](full-looks/06-emerald-light-look.md) |
+| 07 | Evening veil | 2–3 Soft Light evening | [`full-looks/07-evening-veil-look.md`](full-looks/07-evening-veil-look.md) |
+| 08 | Blazer elevated day | 2 Soft Heat | [`full-looks/08-blazer-elevated-day.md`](full-looks/08-blazer-elevated-day.md) |
 
 ---
 
@@ -306,10 +312,12 @@ Rotation depth and seasonal coverage:
 |---|---|
 | Bottoms | Trousers (2), tapered jogger |
 | Tops | Puff-sleeve blouse, smocked top, ribbon-tie camisole, tiered ruffle top; shirts as add-ons |
-| Outerwear | Kimono duster, quilted vest, lightweight trench |
+| Outerwear | Kimono duster, quilted vest, lightweight trench, lightweight tailored blazer |
 | Shoes | Barely There sandal, knee-high boot; Soft Structure jelly line (`shoes/jelly/`) after those are in motion — hero everyday jelly flat first |
-| Accessories | Chain-link belt, hair ribbons/scrunchies, everyday scarf |
+| Accessories | Chain-link belt, hair ribbons/scrunchies, everyday scarf, statement shoulder bag (after everyday bag) |
+| Dresses | Soft day dress (High warm-season everyday) |
 | Soft Light | After basics exist: sheer long-sleeve base + organza blouse first; see [`translucent-system.md`](translucent-system.md) |
+| Soft Heat | Warm-season capsule map — [`warm-season-system.md`](warm-season-system.md) |
 
 ### Phase 3 — Statement *(aspirational; not the shopping list)*
 Ring-forward, Chaos-specific pieces — built in the docs early by request:
@@ -339,20 +347,20 @@ Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, s
 | Bottoms — leggings | 8 |
 | Bottoms — shorts | 8 |
 | Bottoms — trousers / joggers / skirts / overalls | 6 |
-| Outerwear | 7 |
+| Outerwear | 8 |
 | Shoes (numbered) | 9 |
 | Shoes — Anchor Heel system | 1 system (3 variants) |
 | Shoes — Soft Structure jelly | 5 |
-| Accessories | 6 |
-| Dresses | 2 |
-| **Item specs total** | **82 + Anchor Heel** |
-| Full looks | 7 |
+| Accessories | 7 |
+| Dresses | 3 |
+| **Item specs total** | **85 + Anchor Heel** |
+| Full looks | 9 |
 
 | Priority | Count |
 |---|---|
 | Must-Have | 18 |
-| High | 21 |
-| Medium | 20 |
+| High | 23 |
+| Medium | 21 |
 | Experimental (incl. Phase 3, jelly, Soft Light) | 23 |
 
 | Status | Meaning |
@@ -373,6 +381,7 @@ Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, s
 | [`wardrobe-architecture.md`](wardrobe-architecture.md) | Category definitions |
 | [`color-system.md`](color-system.md) | Palette + pairing rules |
 | [`translucent-system.md`](translucent-system.md) | Soft Light opacity map + palette-as-light |
+| [`warm-season-system.md`](warm-season-system.md) | Soft Heat warm-weather capsule |
 | [`priority-system.md`](priority-system.md) | Tier definitions |
 | [`item-template.md`](item-template.md) | New-item template |
 | [`../ring/README.md`](../ring/README.md) | Starlink One |

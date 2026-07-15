@@ -19,8 +19,8 @@ Split into four subfolders — originally two, matching the manifesto's soft/str
 The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) for the full ranking. Seven subfolders: `jeans/` (10), `leggings/` (8), `shorts/` (8), `trousers/` (2), `joggers/` (1), `skirts/` (2, Experimental — including Soft Light translucent midi), `overalls/` (1, Experimental).
 
 ### Outerwear (`/outerwear/`)
-**Built: 7 items.**
-- **Structured layers** — cropped denim jacket (Phase 1), lightweight trench (Phase 2), hardware-detailed moto jacket (Phase 3 statement, chain-link trim in silver only per the color system).
+**Built: 8 items.**
+- **Structured layers** — cropped denim jacket (Phase 1), lightweight trench (Phase 2), hardware-detailed moto jacket (Phase 3 statement, chain-link trim in silver only per the color system), lightweight tailored blazer (Phase 2 High — dressier structure without moto heat).
 - **Soft layers** — chunky knit cardigan (Phase 1), quilted vest (Phase 2, soft-technical).
 - **Romantic layers** — kimono duster (Phase 2) — the outerwear subcategory pulling most directly from the LoveShackFancy reference.
 - **Soft Light** — sheer organza duster (Experimental) — translucent veil outerwear per [`translucent-system.md`](translucent-system.md).
@@ -36,21 +36,24 @@ The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bott
 - **Jelly (Soft Structure)** — [`shoes/jelly/`](shoes/jelly/) Experimental seasonal sub-line (5 silhouettes, shared molded footbed + silver chain-link hardware). Fills warm-weather water / wipeable / translucent-color gap the leather sandal and rain boot don't cover. Documented exception to “patina over polish”: replaceable TPU/PVC, not heirloom. Hero everyday jelly flat sources first; expand only after trial.
 
 ### Accessories (`/accessories/`)
-**Built: 6 items.** This category carries the most direct Starlink One integration in the whole system:
+**Built: 7 items.** This category carries the most direct Starlink One integration in the whole system:
 - **Layering jewelry** — sterling silver layering necklace/bracelet set (Phase 1), a heart-emerald statement pendant (Phase 3 fine jewelry) — chain-link detailing and stone color are deliberate callbacks to the ring's own design. This is where the ring gets "matched," not competed with.
 - **Hair** — ribbons and silk scrunchies (Phase 2) — a signature LoveShackFancy x Target detail category, pulling heavily from Blush Mauve/Lavender Mist/Periwinkle.
 - **Belts** — chain-link belt (Phase 2) — the single most direct hardware echo of Starlink One available in the accessories category.
-- **Bags** — everyday crossbody bag (Phase 1, neutral colorway) before any statement bag.
+- **Bags** — everyday crossbody bag (Phase 1, neutral colorway) before statement shoulder bag (Phase 2 Medium, silver hardware only).
 - **Scarves** — everyday silk scarf (Phase 2), styling flexibility (neck, bag, hair).
 
 ### Dresses (`/dresses/`)
-**Added during Phase 3.** A dress replaces both a top and a bottom at once and doesn't belong filed under either — this category exists because the Phase 3 build plan called for "a statement romantic piece built specifically to showcase the ring," and that piece turned out to be a dress. **Built: 2 items** — the ring statement dress (opaque Emerald showcase) and the sheer overlay dress (Soft Light, opaque underlayer required). Stays intentionally small; this is occasion dressing, not everyday rotation.
+**Added during Phase 3.** A dress replaces both a top and a bottom at once and doesn't belong filed under either — this category exists because the Phase 3 build plan called for "a statement romantic piece built specifically to showcase the ring," and that piece turned out to be a dress. **Built: 3 items** — the ring statement dress (opaque Emerald showcase), the sheer overlay dress (Soft Light, opaque underlayer required), and the soft day dress (High, warm-season everyday). Stays intentionally small relative to separates.
 
 ## Full Looks (`/full-looks/`)
-Not a garment category — this is the assembly layer. **Built: 7 looks**, spanning Phase 1 essentials through Phase 3 statement and Soft Light / Soft Structure Experimental looks, each documenting a complete outfit and checking it against the color system and the ring (Soft Light looks also check [`translucent-system.md`](translucent-system.md)).
+Not a garment category — this is the assembly layer. **Built: 9 looks**, spanning Phase 1 essentials through Phase 3 statement, Soft Light / Soft Structure, and Soft Heat elevated looks, each documenting a complete outfit and checking it against the color system and the ring (Soft Light looks also check [`translucent-system.md`](translucent-system.md)).
 
 ## Soft Light (cross-category)
-Not a garment folder root — doctrine lives in [`translucent-system.md`](translucent-system.md). Pieces are filed in their real categories (`tops/translucent/`, skirts, outerwear, dresses) and assembled in full-looks 04–06. Rhymes with Soft Structure jelly footwear; does not replace it.
+Not a garment folder root — doctrine lives in [`translucent-system.md`](translucent-system.md). Pieces are filed in their real categories (`tops/translucent/`, skirts, outerwear, dresses) and assembled in full-looks 04–07. Rhymes with Soft Structure jelly footwear; does not replace it.
+
+## Soft Heat / Warm Season (cross-category)
+Capsule map for warm weather: [`warm-season-system.md`](warm-season-system.md). Pulls Soft Structure, Soft Light, shorts, day dress, lightweight blazer, and statement bag into one rotation — not a separate garment root.
 
 ## Cross-Category Rules
 

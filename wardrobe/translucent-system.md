@@ -114,6 +114,9 @@ Same hero-first discipline as the jelly line: **docs describe the kit; sourcing 
 | Soft Structure day | [`full-looks/04-soft-structure-translucent-day.md`](full-looks/04-soft-structure-translucent-day.md) |
 | Romantic filter | [`full-looks/05-romantic-filter-look.md`](full-looks/05-romantic-filter-look.md) |
 | Emerald light | [`full-looks/06-emerald-light-look.md`](full-looks/06-emerald-light-look.md) |
+| Evening veil | [`full-looks/07-evening-veil-look.md`](full-looks/07-evening-veil-look.md) |
+
+Warm-season capsule map (Soft Heat): [`warm-season-system.md`](warm-season-system.md).
 
 ---
 

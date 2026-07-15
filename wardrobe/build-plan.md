@@ -45,7 +45,8 @@ Phases are about *sequence*, not exclusively priority tier — Phase 1 is "what 
 | **Outerwear** | Built | Kimono duster, quilted vest, lightweight trench — all three. |
 | **Shoes** | Built | Ribbon-tie sandal, knee-high boot (second boot option). **Plus (added post-Phase-2 map):** Soft Structure jelly line under `shoes/jelly/` — Experimental seasonal sub-line, five silhouettes documented; **source only after Phase 1 Must-Have shoes and the Barely There sandal are in motion**, hero everyday jelly flat first. |
 | **Accessories** | Built | Chain-link belt, hair ribbons & scrunchies, everyday scarf. |
-| **Soft Light (translucent)** | Built (docs) | Cross-category Experimental register — doctrine in `translucent-system.md`; kit = sheer long-sleeve base, organza blouse, lace panel cami, translucent midi, sheer organza duster, sheer overlay dress; full looks 04–06. **Source after Phase 1 Must-Haves and core basics;** opacity map non-negotiable. |
+| **Soft Light (translucent)** | Built (docs) | Cross-category Experimental register — doctrine in `translucent-system.md`; kit = sheer long-sleeve base, organza blouse, lace panel cami, translucent midi, sheer organza duster, sheer overlay dress; full looks 04–07. **Source after Phase 1 Must-Haves and core basics;** opacity map non-negotiable. |
+| **Soft Heat (warm season)** | Built (docs) | Capsule map in `warm-season-system.md` — ties jelly + Soft Light + soft day dress + lightweight blazer + statement bag; full looks 04–08. **Source after Phase 1 Must-Haves.** |
 
 ### Phase 3 — Statement Pieces
 *Goal: the pieces that make this specifically Renn's wardrobe and specifically Chaos Incorporated — lower quantity, higher intentionality, most directly tied to the ring.*

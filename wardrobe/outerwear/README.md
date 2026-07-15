@@ -9,5 +9,6 @@
 | 05 | Lightweight trench | Medium | [`05-lightweight-trench.md`](05-lightweight-trench.md) |
 | 06 | Hardware moto jacket | Experimental (Phase 3) | [`06-hardware-moto-jacket.md`](06-hardware-moto-jacket.md) |
 | 07 | Sheer organza duster | Experimental (Soft Light) | [`07-sheer-organza-duster.md`](07-sheer-organza-duster.md) |
+| 08 | Lightweight tailored blazer | High | [`08-tailored-blazer.md`](08-tailored-blazer.md) |
 
-Soft Light outerwear is governed by [`../translucent-system.md`](../translucent-system.md). Open backlog idea: tailored blazer (dressier structured option) if a gap remains after Phase 1 validation.
+Soft Light outerwear: [`../translucent-system.md`](../translucent-system.md). Soft Heat elevated structure: blazer in [`../warm-season-system.md`](../warm-season-system.md).
