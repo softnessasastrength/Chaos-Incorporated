@@ -9,19 +9,21 @@
 *Originally five — Dresses was added during Phase 3 once a piece existed that didn't fit cleanly under Tops or Bottoms. See the note at the end of that section.*
 
 ### Tops (`/tops/`)
-Split into three subfolders — originally two, matching the manifesto's soft/structure duality; `shirts/` was added afterward once a piece existed that was neither a plain basic nor a romantic intricate detail:
+Split into four subfolders — originally two, matching the manifesto's soft/structure duality; `shirts/` and `translucent/` were added once pieces existed outside basics/intricate:
 - **`basics/`** — solid tees, tanks, long-sleeves, base layers. Quiet, high-rotation, mostly Cloud Ivory / Sterling Grey / Midnight Navy. These exist to be layered under or paired with an intricate piece — they are not where the whimsy lives. **Built: 6 items.**
 - **`intricate/`** — the LoveShackFancy x Target DNA: puff-sleeve blouses, smocked bodices, lace-trim camisoles, ribbon-tie necklines, ruffle detailing. This is where Blush Mauve, Periwinkle, and Lavender Mist do the most work. Every intricate top needs the manifesto's "one hard detail" — a structured cuff, a corseted or smocked bodice panel, a substantial (not flimsy) base fabric under any lace. **Built: 10 items**, including the puff-sleeve blouse and smocked top named in the Core Aesthetic Vision.
 - **`shirts/`** — button-front woven shirts: an oversized flannel and a camp-collar print shirt. Neither is a quiet basic (both carry real pattern/print) nor a romantic intricate detail (no lace, ruffle, or smocking) — they're their own register, casual-with-personality rather than whimsical. This is also where the color system's print exception gets its most explicit workout: the camp-collar shirt is a deliberately re-colored "cool-toned Hawaiian" print (Starlink Emerald/Sage/Periwinkle) rather than the traditional warm red-orange-gold register, so it stays inside the brand's cool-undertone palette instead of importing a clashing print wholesale. **Built: 2 items.**
+- **`translucent/`** — Soft Light tops (sheer long-sleeve base, organza/chiffon blouse, lace panel camisole). Governed by [`translucent-system.md`](translucent-system.md) opacity map — Experimental, not a Phase 1 foundation. **Built: 3 items.**
 
 ### Bottoms (`/bottoms/`)
-The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) for the full ranking. Seven subfolders: `jeans/` (10), `leggings/` (8), `shorts/` (8), `trousers/` (2), `joggers/` (1), `skirts/` (1, Experimental), `overalls/` (1, Experimental) — skirts and overalls graduated from "no dedicated folder yet" once their first Experimental bet landed.
+The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) for the full ranking. Seven subfolders: `jeans/` (10), `leggings/` (8), `shorts/` (8), `trousers/` (2), `joggers/` (1), `skirts/` (2, Experimental — including Soft Light translucent midi), `overalls/` (1, Experimental).
 
 ### Outerwear (`/outerwear/`)
-**Built: 6 items.**
+**Built: 7 items.**
 - **Structured layers** — cropped denim jacket (Phase 1), lightweight trench (Phase 2), hardware-detailed moto jacket (Phase 3 statement, chain-link trim in silver only per the color system).
 - **Soft layers** — chunky knit cardigan (Phase 1), quilted vest (Phase 2, soft-technical).
 - **Romantic layers** — kimono duster (Phase 2) — the outerwear subcategory pulling most directly from the LoveShackFancy reference.
+- **Soft Light** — sheer organza duster (Experimental) — translucent veil outerwear per [`translucent-system.md`](translucent-system.md).
 
 ### Shoes (`/shoes/`)
 **Built: the core 8-shoe catalogue + Anchor Heel system + Soft Structure jelly line** (see [`shoes/README.md`](shoes/README.md) for the complete named list). Every one fit-checked against a 64" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed):
@@ -42,10 +44,13 @@ The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bott
 - **Scarves** — everyday silk scarf (Phase 2), styling flexibility (neck, bag, hair).
 
 ### Dresses (`/dresses/`)
-**Added during Phase 3.** A dress replaces both a top and a bottom at once and doesn't belong filed under either — this category exists because the Phase 3 build plan called for "a statement romantic piece built specifically to showcase the ring," and that piece turned out to be a dress. **Built: 1 item** — the ring statement dress. Stays intentionally small; this is occasion dressing, not everyday rotation.
+**Added during Phase 3.** A dress replaces both a top and a bottom at once and doesn't belong filed under either — this category exists because the Phase 3 build plan called for "a statement romantic piece built specifically to showcase the ring," and that piece turned out to be a dress. **Built: 2 items** — the ring statement dress (opaque Emerald showcase) and the sheer overlay dress (Soft Light, opaque underlayer required). Stays intentionally small; this is occasion dressing, not everyday rotation.
 
 ## Full Looks (`/full-looks/`)
-Not a garment category — this is the assembly layer. **Built: 3 looks**, spanning Phase 1 (two everyday looks) through Phase 3 (one statement going-out look), each documenting a complete outfit and checking it against the color system and the ring.
+Not a garment category — this is the assembly layer. **Built: 7 looks**, spanning Phase 1 essentials through Phase 3 statement and Soft Light / Soft Structure Experimental looks, each documenting a complete outfit and checking it against the color system and the ring (Soft Light looks also check [`translucent-system.md`](translucent-system.md)).
+
+## Soft Light (cross-category)
+Not a garment folder root — doctrine lives in [`translucent-system.md`](translucent-system.md). Pieces are filed in their real categories (`tops/translucent/`, skirts, outerwear, dresses) and assembled in full-looks 04–06. Rhymes with Soft Structure jelly footwear; does not replace it.
 
 ## Cross-Category Rules
 

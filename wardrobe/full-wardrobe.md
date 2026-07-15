@@ -25,9 +25,10 @@
 | **Aesthetic** | LoveShackFancy silhouette language × Target wearability |
 | **Fixed reference** | [Starlink One](../ring/README.md) — sterling silver + emerald; hardware is silver-family only |
 | **Palette** | 9 colors (see below) |
-| **Garment/accessory specs** | **76** item files + Anchor Heel system (includes Soft Structure jelly line) |
-| **Full looks** | **4** assembled outfits |
-| **Priority split** | Must-Have 18 · High 21 · Medium 20 · Experimental 17 |
+| **Garment/accessory specs** | **82** item files + Anchor Heel system (includes Soft Structure jelly + Soft Light translucent kit) |
+| **Full looks** | **7** assembled outfits |
+| **Priority split** | Must-Have 18 · High 21 · Medium 20 · Experimental 23 |
+| **Soft Light** | [`translucent-system.md`](translucent-system.md) — sheer/translucent doctrine |
 
 ### Palette (quick ref)
 
@@ -105,7 +106,7 @@ Once enough Must-Haves are owned, assemble and wear-test:
 
 ## Complete Catalog by Category
 
-### Tops (18)
+### Tops (21)
 
 #### Basics (6)
 
@@ -140,9 +141,19 @@ Once enough Must-Haves are owned, assemble and wear-test:
 | 01 | Oversized flannel shirt | High | Concept | [`tops/shirts/01-oversized-flannel-shirt.md`](tops/shirts/01-oversized-flannel-shirt.md) |
 | 02 | Camp-collar print shirt | Experimental | Concept | [`tops/shirts/02-camp-collar-print-shirt.md`](tops/shirts/02-camp-collar-print-shirt.md) |
 
+#### Translucent / Soft Light (3)
+
+Governed by [`translucent-system.md`](translucent-system.md). Experimental — not Phase 1.
+
+| # | Item | Priority | Status | File |
+|---|---|---|---|---|
+| 01 | Sheer long-sleeve base *(source first in Soft Light tops)* | Experimental | Concept | [`tops/translucent/01-sheer-long-sleeve-base.md`](tops/translucent/01-sheer-long-sleeve-base.md) |
+| 02 | Organza / chiffon blouse | Experimental | Concept | [`tops/translucent/02-organza-chiffon-blouse.md`](tops/translucent/02-organza-chiffon-blouse.md) |
+| 03 | Lace panel camisole | Experimental | Concept | [`tops/translucent/03-lace-panel-camisole.md`](tops/translucent/03-lace-panel-camisole.md) |
+
 ---
 
-### Bottoms (31)
+### Bottoms (32)
 
 See also [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) and [`bottoms/jeans/jeans-template.md`](bottoms/jeans/jeans-template.md).
 
@@ -187,7 +198,7 @@ See also [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) and [`bott
 | 07 | High-waist paperbag shorts | Experimental | Concept | [`bottoms/shorts/07-high-waist-paperbag-shorts.md`](bottoms/shorts/07-high-waist-paperbag-shorts.md) |
 | 08 | Sweat shorts (French terry) | Must-Have | Sourcing | [`bottoms/shorts/08-sweat-shorts.md`](bottoms/shorts/08-sweat-shorts.md) |
 
-#### Trousers, joggers, skirts, overalls (5)
+#### Trousers, joggers, skirts, overalls (6)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
@@ -195,11 +206,12 @@ See also [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) and [`bott
 | 02 | Straight-leg ponte trouser | Medium | Concept | [`bottoms/trousers/02-straight-leg-ponte-trouser.md`](bottoms/trousers/02-straight-leg-ponte-trouser.md) |
 | 01 | Tapered jogger | Medium | Concept | [`bottoms/joggers/01-tapered-jogger.md`](bottoms/joggers/01-tapered-jogger.md) |
 | 01 | Tiered midi skirt | Experimental | Concept | [`bottoms/skirts/01-tiered-midi-skirt.md`](bottoms/skirts/01-tiered-midi-skirt.md) |
+| 02 | Translucent midi skirt (Soft Light) | Experimental | Concept | [`bottoms/skirts/02-translucent-midi-skirt.md`](bottoms/skirts/02-translucent-midi-skirt.md) |
 | 01 | Cropped overalls | Experimental | Concept | [`bottoms/overalls/01-cropped-overalls.md`](bottoms/overalls/01-cropped-overalls.md) |
 
 ---
 
-### Outerwear (6)
+### Outerwear (7)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
@@ -209,6 +221,7 @@ See also [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) and [`bott
 | 04 | Quilted vest | Medium | Concept | [`outerwear/04-quilted-vest.md`](outerwear/04-quilted-vest.md) |
 | 05 | Lightweight trench | Medium | Concept | [`outerwear/05-lightweight-trench.md`](outerwear/05-lightweight-trench.md) |
 | 06 | Hardware-detailed moto jacket | Experimental (Phase 3) | Concept | [`outerwear/06-hardware-moto-jacket.md`](outerwear/06-hardware-moto-jacket.md) |
+| 07 | Sheer organza duster (Soft Light) | Experimental | Concept | [`outerwear/07-sheer-organza-duster.md`](outerwear/07-sheer-organza-duster.md) |
 
 ---
 
@@ -258,15 +271,16 @@ Catalogue index: [`shoes/README.md`](shoes/README.md).
 
 ---
 
-### Dresses (1)
+### Dresses (2)
 
 | # | Item | Priority | Status | File |
 |---|---|---|---|---|
 | 01 | Ring statement dress | Experimental (Phase 3) | Concept | [`dresses/01-ring-statement-dress.md`](dresses/01-ring-statement-dress.md) |
+| 02 | Sheer overlay dress (Soft Light) | Experimental | Concept | [`dresses/02-sheer-overlay-dress.md`](dresses/02-sheer-overlay-dress.md) |
 
 ---
 
-### Full Looks (4)
+### Full Looks (7)
 
 | # | Look | Phase | File |
 |---|---|---|---|
@@ -274,6 +288,9 @@ Catalogue index: [`shoes/README.md`](shoes/README.md).
 | 01 | Structured everyday | 1 | [`full-looks/01-structured-everyday-look.md`](full-looks/01-structured-everyday-look.md) |
 | 02 | Soft errand day | 1 | [`full-looks/02-soft-errand-look.md`](full-looks/02-soft-errand-look.md) |
 | 03 | Statement going-out | 3 | [`full-looks/03-statement-going-out-look.md`](full-looks/03-statement-going-out-look.md) |
+| 04 | Soft Structure translucent day | 2–3 Experimental | [`full-looks/04-soft-structure-translucent-day.md`](full-looks/04-soft-structure-translucent-day.md) |
+| 05 | Romantic filter | 2 Soft Light | [`full-looks/05-romantic-filter-look.md`](full-looks/05-romantic-filter-look.md) |
+| 06 | Emerald light | 3-adjacent Soft Light | [`full-looks/06-emerald-light-look.md`](full-looks/06-emerald-light-look.md) |
 
 ---
 
@@ -292,6 +309,7 @@ Rotation depth and seasonal coverage:
 | Outerwear | Kimono duster, quilted vest, lightweight trench |
 | Shoes | Barely There sandal, knee-high boot; Soft Structure jelly line (`shoes/jelly/`) after those are in motion — hero everyday jelly flat first |
 | Accessories | Chain-link belt, hair ribbons/scrunchies, everyday scarf |
+| Soft Light | After basics exist: sheer long-sleeve base + organza blouse first; see [`translucent-system.md`](translucent-system.md) |
 
 ### Phase 3 — Statement *(aspirational; not the shopping list)*
 Ring-forward, Chaos-specific pieces — built in the docs early by request:
@@ -303,8 +321,9 @@ Ring-forward, Chaos-specific pieces — built in the docs early by request:
 | Block heel pump | [`shoes/06-block-heel-pump.md`](shoes/06-block-heel-pump.md) |
 | Heart-emerald pendant | [`accessories/06-heart-emerald-pendant-necklace.md`](accessories/06-heart-emerald-pendant-necklace.md) |
 | Statement going-out look | [`full-looks/03-statement-going-out-look.md`](full-looks/03-statement-going-out-look.md) |
+| Emerald light look / sheer overlay dress | [`full-looks/06-emerald-light-look.md`](full-looks/06-emerald-light-look.md), [`dresses/02-sheer-overlay-dress.md`](dresses/02-sheer-overlay-dress.md) |
 
-Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, statement mule, camp-collar shirt, Soft Structure jelly line, etc.) — one unit each (or hero-first for multi-SKU lines), trial period, then promote or retire.
+Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, statement mule, camp-collar shirt, Soft Structure jelly, Soft Light kit, etc.) — one unit each (or hero-first for multi-SKU lines), trial period, then promote or retire.
 
 ---
 
@@ -315,25 +334,26 @@ Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, s
 | Tops — basics | 6 |
 | Tops — intricate | 10 |
 | Tops — shirts | 2 |
+| Tops — translucent (Soft Light) | 3 |
 | Bottoms — jeans | 10 |
 | Bottoms — leggings | 8 |
 | Bottoms — shorts | 8 |
-| Bottoms — trousers / joggers / skirts / overalls | 5 |
-| Outerwear | 6 |
+| Bottoms — trousers / joggers / skirts / overalls | 6 |
+| Outerwear | 7 |
 | Shoes (numbered) | 9 |
 | Shoes — Anchor Heel system | 1 system (3 variants) |
 | Shoes — Soft Structure jelly | 5 |
 | Accessories | 6 |
-| Dresses | 1 |
-| **Item specs total** | **76 + Anchor Heel** |
-| Full looks | 4 |
+| Dresses | 2 |
+| **Item specs total** | **82 + Anchor Heel** |
+| Full looks | 7 |
 
 | Priority | Count |
 |---|---|
 | Must-Have | 18 |
 | High | 21 |
 | Medium | 20 |
-| Experimental (incl. Phase 3 Statement + jelly line) | 17 |
+| Experimental (incl. Phase 3, jelly, Soft Light) | 23 |
 
 | Status | Meaning |
 |---|---|
@@ -352,6 +372,7 @@ Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, s
 | [`build-plan.md`](build-plan.md) | Aesthetic vision + phase roadmap |
 | [`wardrobe-architecture.md`](wardrobe-architecture.md) | Category definitions |
 | [`color-system.md`](color-system.md) | Palette + pairing rules |
+| [`translucent-system.md`](translucent-system.md) | Soft Light opacity map + palette-as-light |
 | [`priority-system.md`](priority-system.md) | Tier definitions |
 | [`item-template.md`](item-template.md) | New-item template |
 | [`../ring/README.md`](../ring/README.md) | Starlink One |
