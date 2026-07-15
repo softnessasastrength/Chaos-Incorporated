@@ -136,4 +136,5 @@ Warm-season capsule map (Soft Heat): [`warm-season-system.md`](warm-season-syste
 | [`color-system.md`](color-system.md) | Closed palette |
 | [`shoes/jelly/README.md`](shoes/jelly/README.md) | Material-translucent footwear |
 | [`full-wardrobe.md`](full-wardrobe.md) | Master inventory |
+| [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) | Brand-level buy waves |
 | [`item-template.md`](item-template.md) | Per-item template |

@@ -117,4 +117,5 @@ Also still valid in mild cold: structured everyday + denim jacket; soft errand +
 | [`warm-season-system.md`](warm-season-system.md) | Soft Heat mirror |
 | [`full-wardrobe.md`](full-wardrobe.md) | Inventory |
 | [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) | Near-term brand picks |
+| [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md) | Soft Cold brand buy waves |
 | [`build-plan.md`](build-plan.md) | Phase roadmap |

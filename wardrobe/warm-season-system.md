@@ -124,4 +124,5 @@ Use **one Experimental register as the personality lead** per look when possible
 | [`translucent-system.md`](translucent-system.md) | Soft Light |
 | [`shoes/jelly/README.md`](shoes/jelly/README.md) | Soft Structure |
 | [`full-wardrobe.md`](full-wardrobe.md) | Inventory + Phase 1 checklist |
+| [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) | Brand-level buy waves |
 | [`build-plan.md`](build-plan.md) | Phase roadmap |

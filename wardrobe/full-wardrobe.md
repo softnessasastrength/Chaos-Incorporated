@@ -31,7 +31,7 @@
 | **Soft Light** | [`translucent-system.md`](translucent-system.md) |
 | **Soft Heat** | [`warm-season-system.md`](warm-season-system.md) |
 | **Soft Cold** | [`cold-season-system.md`](cold-season-system.md) |
-| **Shop next** | [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) |
+| **Shop next** | Phase 1 → then Soft Light / Soft Heat / Soft Cold shortlists |
 
 ### Palette (quick ref)
 
@@ -55,7 +55,9 @@ Full pairing rules: [`color-system.md`](color-system.md).
 
 *Goal: she can get dressed every day, comfortably and on-aesthetic, using only these pieces. Source and fit these first.*
 
-**Brand-level buy waves (recommended):** [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) — Wave A first.
+**Brand-level buy waves:**
+1. [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) — **Wave A first**
+2. Then (by season/register): [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) · [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) · [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md)
 
 ### Must-Have core (buy / validate first)
 
@@ -393,7 +395,10 @@ Also Experimental silhouettes (barrel jean, baggy jean, tiered midi, overalls, s
 | [`translucent-system.md`](translucent-system.md) | Soft Light opacity map + palette-as-light |
 | [`warm-season-system.md`](warm-season-system.md) | Soft Heat warm-weather capsule |
 | [`cold-season-system.md`](cold-season-system.md) | Soft Cold cool/cold capsule |
-| [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) | Brand-level buy waves |
+| [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) | Phase 1 brand buy waves |
+| [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) | Soft Light buy waves |
+| [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) | Soft Heat + jelly buy waves |
+| [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md) | Soft Cold buy waves |
 | [`priority-system.md`](priority-system.md) | Tier definitions |
 | [`item-template.md`](item-template.md) | New-item template |
 | [`../ring/README.md`](../ring/README.md) | Starlink One |

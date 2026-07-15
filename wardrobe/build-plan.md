@@ -48,7 +48,7 @@ Phases are about *sequence*, not exclusively priority tier — Phase 1 is "what 
 | **Soft Light (translucent)** | Built (docs) | Cross-category Experimental register — doctrine in `translucent-system.md`; kit = sheer long-sleeve base, organza blouse, lace panel cami, translucent midi, sheer organza duster, sheer overlay dress; full looks 04–07. **Source after Phase 1 Must-Haves and core basics;** opacity map non-negotiable. |
 | **Soft Heat (warm season)** | Built (docs) | Capsule map in `warm-season-system.md` — ties jelly + Soft Light + soft day dress + lightweight blazer + statement bag; full looks 04–08. **Source after Phase 1 Must-Haves.** |
 | **Soft Cold (cold season)** | Built (docs) | Capsule map in `cold-season-system.md` — turtleneck, wool wrap coat, soft gloves + existing fleece legging / rain boot / scarf; full looks 09–10. **Source after Phase 1 Must-Haves.** |
-| **Phase 1 shortlist** | Built | Brand-level buy waves in `phase-1-shopping-shortlist.md` — the practical next step after docs. |
+| **Shopping shortlists** | Built | Phase 1 + Soft Light + Soft Heat + Soft Cold brand buy waves (`phase-1-shopping-shortlist.md`, `soft-*-shopping-shortlist.md`). |
 
 ### Phase 3 — Statement Pieces
 *Goal: the pieces that make this specifically Renn's wardrobe and specifically Chaos Incorporated — lower quantity, higher intentionality, most directly tied to the ring.*

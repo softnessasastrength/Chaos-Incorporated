@@ -52,14 +52,28 @@
 | ☐ | Item | Start here (examples) | $ range | Spec file |
 |---|---|---|---|---|
 | ☐ | Hug Boot (heeled ankle) | Steve Madden Dacey, Sam Edelman Holden, Everlane Boss Boot | $130–$250 | [`shoes/03-heeled-ankle-boot.md`](shoes/03-heeled-ankle-boot.md) |
-| ☐ | Wide-leg jean | see item file | — | [`bottoms/jeans/02-wide-leg-jean.md`](bottoms/jeans/02-wide-leg-jean.md) |
-| ☐ | Mom jean | see item file | — | [`bottoms/jeans/05-mom-jean.md`](bottoms/jeans/05-mom-jean.md) |
-| ☐ | Flare jean | see item file | — | [`bottoms/jeans/08-flare-jean.md`](bottoms/jeans/08-flare-jean.md) |
-| ☐ | Compression + flare yoga + bike short legging | see item files | — | `bottoms/leggings/02`, `03`, `06` |
-| ☐ | Oversized boyfriend tee | see item file | — | [`tops/basics/02-oversized-boyfriend-tee.md`](tops/basics/02-oversized-boyfriend-tee.md) |
-| ☐ | Corset / wrap / tie-front tops | see intricate files | — | `tops/intricate/01`, `02`, `06` |
+| ☐ | Wide-leg jean | AGOLDE Dame wide leg (petite), Levi's Ribcage Wide Leg cropped, Reformation wide leg | $150–$220 | [`bottoms/jeans/02-wide-leg-jean.md`](bottoms/jeans/02-wide-leg-jean.md) |
+| ☐ | Mom jean | Levi's Mom Jean, AE Mom Jean, Madewell Perfect Vintage Mom | $60–$110 | [`bottoms/jeans/05-mom-jean.md`](bottoms/jeans/05-mom-jean.md) |
+| ☐ | Flare jean | AGOLDE '70s Flare, Free People Ziggy Flare, Levi's Ribcage Flare | $80–$180 | [`bottoms/jeans/08-flare-jean.md`](bottoms/jeans/08-flare-jean.md) |
+| ☐ | High-waist compression legging | Lululemon Wunder Train, Athleta Elation, Nike Universa | $70–$130 | [`bottoms/leggings/02-high-waist-compression-legging.md`](bottoms/leggings/02-high-waist-compression-legging.md) |
+| ☐ | Flare yoga pant | Lululemon Groove Flare, Alo Airlift High-Waist Flare, Beyond Yoga Spacedye | $80–$130 | [`bottoms/leggings/03-flare-yoga-pant.md`](bottoms/leggings/03-flare-yoga-pant.md) |
+| ☐ | Bike short legging | Lululemon Align Bike Short, Skims Fits Everybody Bike Short, Athleta Elation Short | $30–$70 | [`bottoms/leggings/06-bike-short-legging.md`](bottoms/leggings/06-bike-short-legging.md) |
+| ☐ | Oversized boyfriend tee | Abercrombie Oversized Tee, Gap Vintage Wash Tee | $20–$45 | [`tops/basics/02-oversized-boyfriend-tee.md`](tops/basics/02-oversized-boyfriend-tee.md) |
+| ☐ | Structured corset top | Reformation Corset Top, House of CB, Motel Rocks corset | $80–$180 | [`tops/intricate/01-structured-corset-top.md`](tops/intricate/01-structured-corset-top.md) |
+| ☐ | Wrap top | Reformation Wrap Top, Free People Wrap, Aritzia Wilfred Wrap Blouse | $50–$100 | [`tops/intricate/02-wrap-top.md`](tops/intricate/02-wrap-top.md) |
+| ☐ | Tie-front cropped top | Free People Tie-Front Crop, AE Tie-Front Tee | $25–$60 | [`tops/intricate/06-tie-front-cropped-top.md`](tops/intricate/06-tie-front-cropped-top.md) |
 
 **Anchor One** (everyday heel): concept + manufacturing brief only — [`shoes/anchor-heel/`](shoes/anchor-heel/) — prototype path, not a same-day add-to-cart SKU.
+
+---
+
+## After Phase 1 — seasonal shortlists (all three)
+
+| Register | Shortlist | When |
+|---|---|---|
+| **Soft Light** | [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) | After Wave A; opacity map discipline |
+| **Soft Heat** | [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) | After Wave A; warm months; jelly hero-first |
+| **Soft Cold** | [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md) | After Wave A; cold months; coat last among cold shells |
 
 ---
 
@@ -74,14 +88,15 @@
 
 ---
 
-## Do not buy yet (documented, not Phase 1)
+## Do not buy yet (until Phase 1 Wave A is done)
 
-| Register | Examples | Doctrine |
+Use the dedicated shortlists — do not freestyle:
+
+| Register | Shopping shortlist | Doctrine |
 |---|---|---|
-| Soft Structure jelly | Emerald jelly flat, slide, etc. | [`shoes/jelly/README.md`](shoes/jelly/README.md) |
-| Soft Light sheer | Organza blouse, sheer base, overlay dress | [`translucent-system.md`](translucent-system.md) |
-| Soft Heat elevated | Soft day dress, blazer, statement bag | [`warm-season-system.md`](warm-season-system.md) |
-| Soft Cold shell | Wool coat, turtleneck, gloves | [`cold-season-system.md`](cold-season-system.md) |
+| Soft Light | [`soft-light-shopping-shortlist.md`](soft-light-shopping-shortlist.md) | [`translucent-system.md`](translucent-system.md) |
+| Soft Heat (+ jelly) | [`soft-heat-shopping-shortlist.md`](soft-heat-shopping-shortlist.md) | [`warm-season-system.md`](warm-season-system.md) |
+| Soft Cold | [`soft-cold-shopping-shortlist.md`](soft-cold-shopping-shortlist.md) | [`cold-season-system.md`](cold-season-system.md) |
 | Phase 3 statement | Ring dress, moto, block pump, heart pendant | [`build-plan.md`](build-plan.md) |
 
 ---
