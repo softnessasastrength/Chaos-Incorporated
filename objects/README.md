@@ -3,4 +3,4 @@
 Future custom objects.
 
 ## Signature Pen (Phase 2)
-Over-engineered personal pen — see `/pen/`.
+Over-engineered personal pen — see [`pen/README.md`](pen/README.md).
