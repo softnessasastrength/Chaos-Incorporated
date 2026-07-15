@@ -1,6 +1,6 @@
 # The Cloud Walker — Design Vision
 
-*The everyday sneaker — Must-Have tier, the highest-mileage shoe in the entire rotation. See [`../README.md`](../README.md) for its place in the full 8-shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
+*The everyday sneaker — Must-Have tier, the highest-mileage shoe in the entire rotation. See [`../README.md`](../README.md) for its place in the full shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
 
 ---
 

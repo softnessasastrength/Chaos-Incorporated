@@ -1,6 +1,6 @@
 # The Barely There Sandal — Design Vision
 
-*The warm-weather sandal — Medium tier, built as two named versions sharing one footbed and strap-construction philosophy. See [`../README.md`](../README.md) for its place in the full 8-shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
+*The warm-weather sandal — Medium tier, built as two named versions sharing one footbed and strap-construction philosophy. See [`../README.md`](../README.md) for its place in the full shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
 
 ---
 

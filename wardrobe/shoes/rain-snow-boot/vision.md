@@ -1,6 +1,6 @@
 # The Rain/Snow Boot — Design Vision
 
-*The waterproof Chelsea boot — High tier, and the one shoe in the catalogue built for a genuine functional gap nothing else in the system covers. See [`../README.md`](../README.md) for its place in the full 8-shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
+*The waterproof Chelsea boot — High tier, and the one shoe in the catalogue built for a genuine functional gap nothing else in the system covers. See [`../README.md`](../README.md) for its place in the full shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
 
 ---
 

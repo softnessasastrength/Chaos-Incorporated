@@ -5,7 +5,7 @@
 **Priority:** Experimental (Phase 3 Statement)
 **Status:** Concept
 
-*Part of the full 8-shoe catalogue — see [`README.md`](README.md). Full vision document and Shenzhen manufacturing brief now live at [`block-heel-pump/`](block-heel-pump/); this file remains as the original sourcing-stage concept note.*
+*Part of the full shoe catalogue — see [`README.md`](README.md). Full vision document and Shenzhen manufacturing brief now live at [`block-heel-pump/`](block-heel-pump/); this file remains as the original sourcing-stage concept note.*
 
 ## Why It Works for Her Frame (64")
 - Per `README.md`'s own note, a moderate heel worn often gives more usable leg-lengthening across a week than a high heel worn rarely — this piece intentionally breaks that rule as a single, considered exception for genuine going-out occasions, which is exactly what a Phase 3 statement piece is for.

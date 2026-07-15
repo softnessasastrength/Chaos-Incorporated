@@ -1,6 +1,6 @@
 # The Yoga / Recovery Shoe — Design Vision
 
-*The comfort-core recovery slip-on — High tier, the single most comfort-forward shoe in the entire catalogue. See [`../README.md`](../README.md) for its place in the full 8-shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
+*The comfort-core recovery slip-on — High tier, the single most comfort-forward shoe in the entire catalogue. See [`../README.md`](../README.md) for its place in the full shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
 
 ---
 

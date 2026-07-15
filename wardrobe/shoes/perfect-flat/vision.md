@@ -1,6 +1,6 @@
 # The Perfect Flat — Design Vision
 
-*The everyday flat — Must-Have tier, the "neutral variable" shoe the rest of the bottoms system is built to pair against. See [`../README.md`](../README.md) for its place in the full 8-shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
+*The everyday flat — Must-Have tier, the "neutral variable" shoe the rest of the bottoms system is built to pair against. See [`../README.md`](../README.md) for its place in the full shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
 
 ---
 

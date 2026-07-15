@@ -1,6 +1,6 @@
 # The Hug Boot — Design Vision
 
-*The everyday-to-elevated ankle boot — High tier, and the one shoe in the catalogue that another category's fit math explicitly depends on. See [`../README.md`](../README.md) for its place in the full 8-shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
+*The everyday-to-elevated ankle boot — High tier, and the one shoe in the catalogue that another category's fit math explicitly depends on. See [`../README.md`](../README.md) for its place in the full shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
 
 ---
 

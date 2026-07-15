@@ -1,6 +1,6 @@
 # The Block Heel Pump — Design Vision
 
-*The going-out statement heel — Experimental (Phase 3), the system's single considered high heel. Sits alongside [`../statement-mule/vision.md`](../statement-mule/vision.md) in the going-out register — a closed pump vs. an open-back mule, not a duplicate. See [`../README.md`](../README.md) for its place in the full 8-shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
+*The going-out statement heel — Experimental (Phase 3), the system's single considered high heel. Sits alongside [`../statement-mule/vision.md`](../statement-mule/vision.md) in the going-out register — a closed pump vs. an open-back mule, not a duplicate. See [`../README.md`](../README.md) for its place in the full shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
 
 ---
 

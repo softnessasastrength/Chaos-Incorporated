@@ -1,6 +1,6 @@
 # The Statement Mule — Design Vision
 
-*The going-out sculptural mule — Experimental tier, the overt counterpart to the Anchor Heel's everyday quietness. Sits alongside [`../block-heel-pump/vision.md`](../block-heel-pump/vision.md) in the going-out register — a different silhouette (open-back mule vs. closed pump), not a duplicate. See [`../README.md`](../README.md) for its place in the full 8-shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
+*The going-out sculptural mule — Experimental tier, the overt counterpart to the Anchor Heel's everyday quietness. Sits alongside [`../block-heel-pump/vision.md`](../block-heel-pump/vision.md) in the going-out register — a different silhouette (open-back mule vs. closed pump), not a duplicate. See [`../README.md`](../README.md) for its place in the full shoe catalogue and [`../../wardrobe-manifesto.md`](../../wardrobe-manifesto.md) for the governing design doctrine.*
 
 ---
 

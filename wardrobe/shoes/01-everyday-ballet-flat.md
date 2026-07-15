@@ -5,7 +5,7 @@
 **Priority:** Must-Have
 **Status:** Sourcing
 
-*Renamed and upgraded as part of the full 8-shoe catalogue — see [`README.md`](README.md). Full vision document and Shenzhen manufacturing brief now live at [`perfect-flat/`](perfect-flat/); this file remains as the original sourcing-stage concept note.*
+*Renamed and upgraded as part of the full shoe catalogue — see [`README.md`](README.md). Full vision document and Shenzhen manufacturing brief now live at [`perfect-flat/`](perfect-flat/); this file remains as the original sourcing-stage concept note.*
 
 ## Why It Works for Her Frame (64")
 - A near-flat adds almost no visible height, which means it stays the "neutral" variable in the leg-lengthening math established across the bottoms system — it works best paired with silhouettes that don't depend on a heel to complete their proportion (straight-leg, skinny, cropped-straight, mom jean's tapered ankle).

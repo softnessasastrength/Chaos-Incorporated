@@ -5,7 +5,7 @@
 **Priority:** High
 **Status:** Concept
 
-*Part of the full 8-shoe catalogue — see [`README.md`](README.md). The comfort-core counterpart to the leggings and lounge pieces already in the bottoms system — see `../bottoms/leggings/07-cotton-lounge-legging.md` for the same register. Full vision document and Shenzhen manufacturing brief now live at [`yoga-recovery-shoe/`](yoga-recovery-shoe/); this file remains as the original sourcing-stage concept note.*
+*Part of the full shoe catalogue — see [`README.md`](README.md). The comfort-core counterpart to the leggings and lounge pieces already in the bottoms system — see `../bottoms/leggings/07-cotton-lounge-legging.md` for the same register. Full vision document and Shenzhen manufacturing brief now live at [`yoga-recovery-shoe/`](yoga-recovery-shoe/); this file remains as the original sourcing-stage concept note.*
 
 ## Why It Works for Her Frame (64")
 - A loafer-inspired silhouette (rather than an obvious slipper or slide) means this shoe can leave the house — errands, the walk to and from a studio — without reading as "forgot to change shoes." That range of use matters more at this comfort tier than at any other, since a piece that only works indoors gets worn far less often.
