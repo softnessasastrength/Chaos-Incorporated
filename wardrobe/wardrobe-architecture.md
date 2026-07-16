@@ -46,7 +46,7 @@ The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bott
 - **Cold hands** — soft gloves (Phase 2 Soft Cold), silver hardware only, ring-visibility modes documented.
 
 ### Dresses (`/dresses/`)
-**Added during Phase 3.** A dress replaces both a top and a bottom at once and doesn't belong filed under either. **Built: 6 items** — ring statement dress, sheer overlay (Soft Light), soft day dress (Soft Heat), plus Soft Formal midi / cocktail / long formal. Separates still carry everyday rotation.
+**Added during Phase 3.** A dress replaces both a top and a bottom at once and doesn't belong filed under either. **Built: 6 items** — ring statement dress (now with its own full `vision.md` + `manufacturing-brief.md` at [`dresses/ring-statement-dress/`](dresses/ring-statement-dress/) — the dresses category's first item to get the shoe catalogue's "Anchor One treatment"), sheer overlay (Soft Light), soft day dress (Soft Heat), plus Soft Formal midi / cocktail / long formal. Separates still carry everyday rotation.
 
 ## Full Looks (`/full-looks/`)
 Not a garment category — this is the assembly layer. **Built: 14 looks**, spanning Phase 1 essentials through Phase 3 statement, Soft Light / Soft Structure, Soft Heat, Soft Cold, and Soft Formal looks, each documenting a complete outfit and checking it against the color system and the ring (Soft Light checks [`translucent-system.md`](translucent-system.md); Soft Formal checks [`formal-system.md`](formal-system.md)).

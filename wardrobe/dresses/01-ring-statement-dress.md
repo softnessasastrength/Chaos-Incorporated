@@ -1,5 +1,7 @@
 # Ring Statement Dress
 
+*Now has a full vision doc + manufacturing brief — see [`ring-statement-dress/`](ring-statement-dress/).*
+
 **Category:** Dresses
 **Subcategory:** Statement — Ring-Forward Fitted Dress
 **Priority:** Experimental (Phase 3 Statement)
