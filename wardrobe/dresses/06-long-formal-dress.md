@@ -1,5 +1,7 @@
 # Long Formal Dress
 
+*Now has a full vision doc + manufacturing brief — see [`long-formal-dress/`](long-formal-dress/).*
+
 **Category:** Dresses  
 **Subcategory:** Soft Formal — Floor / Long (Experimental)  
 **Priority:** Experimental  

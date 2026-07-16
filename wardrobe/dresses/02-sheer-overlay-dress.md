@@ -1,5 +1,7 @@
 # Sheer Overlay Dress
 
+*Now has a full vision doc + manufacturing brief — see [`sheer-overlay-dress/`](sheer-overlay-dress/).*
+
 **Category:** Dresses  
 **Subcategory:** Translucent — Sheer Overlay (Underlayer Required)  
 **Priority:** Experimental (Phase 3 Statement-adjacent)  

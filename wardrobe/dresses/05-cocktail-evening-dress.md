@@ -1,5 +1,7 @@
 # Cocktail / Evening Dress
 
+*Now has a full vision doc + manufacturing brief — see [`cocktail-evening-dress/`](cocktail-evening-dress/).*
+
 **Category:** Dresses  
 **Subcategory:** Soft Formal — Cocktail / Evening  
 **Priority:** Medium  

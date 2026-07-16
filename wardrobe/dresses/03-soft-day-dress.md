@@ -1,5 +1,7 @@
 # Soft Day Dress
 
+*Now has a full vision doc + manufacturing brief — see [`soft-day-dress/`](soft-day-dress/).*
+
 **Category:** Dresses  
 **Subcategory:** Everyday — Soft Romantic Day Dress  
 **Priority:** High  

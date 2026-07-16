@@ -1,5 +1,7 @@
 # Soft Formal Midi Dress
 
+*Now has a full vision doc + manufacturing brief — see [`soft-formal-midi-dress/`](soft-formal-midi-dress/).*
+
 **Category:** Dresses  
 **Subcategory:** Soft Formal — Workhorse Midi / Tea Length  
 **Priority:** High (within Soft Formal only — still not wardrobe Must-Have)  
