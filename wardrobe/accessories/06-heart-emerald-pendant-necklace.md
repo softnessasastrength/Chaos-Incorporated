@@ -1,5 +1,7 @@
 # Heart-Emerald Pendant Necklace
 
+*Now has a full vision doc + jeweler-ready manufacturing brief — see [`heart-emerald-pendant/`](heart-emerald-pendant/).*
+
 **Category:** Accessories
 **Subcategory:** Jewelry — Statement Pendant (Fine Jewelry)
 **Priority:** Experimental (Phase 3 Statement)

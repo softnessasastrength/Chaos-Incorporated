@@ -38,7 +38,7 @@ The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bott
 
 ### Accessories (`/accessories/`)
 **Built: 9 items.** This category carries the most direct Starlink One integration in the whole system:
-- **Layering jewelry** — sterling silver layering necklace/bracelet set (Phase 1), a heart-emerald statement pendant (Phase 3 fine jewelry) — chain-link detailing and stone color are deliberate callbacks to the ring's own design. This is where the ring gets "matched," not competed with.
+- **Layering jewelry** — sterling silver layering necklace/bracelet set (Phase 1), a heart-emerald statement pendant (Phase 3 fine jewelry, now with its own full `vision.md` + jeweler-ready `manufacturing-brief.md` at [`accessories/heart-emerald-pendant/`](accessories/heart-emerald-pendant/) — the accessories category's first item to get the shoe catalogue's "Anchor One treatment") — chain-link detailing and stone color are deliberate callbacks to the ring's own design. This is where the ring gets "matched," not competed with.
 - **Hair** — ribbons and silk scrunchies (Phase 2) — a signature LoveShackFancy x Target detail category, pulling heavily from Blush Mauve/Lavender Mist/Periwinkle.
 - **Belts** — chain-link belt (Phase 2) — the single most direct hardware echo of Starlink One available in the accessories category.
 - **Bags** — everyday crossbody bag (Phase 1) → statement shoulder bag (Phase 2) → evening clutch (Soft Formal); silver hardware only at every scale.
