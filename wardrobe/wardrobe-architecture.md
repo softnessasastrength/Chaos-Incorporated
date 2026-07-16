@@ -19,11 +19,11 @@ Split into four subfolders — originally two, matching the manifesto's soft/str
 The most built-out category — see [`bottoms/bottoms-priority.md`](bottoms/bottoms-priority.md) for the full ranking. Seven subfolders: `jeans/` (10), `leggings/` (8), `shorts/` (8), `trousers/` (2), `joggers/` (1), `skirts/` (2, Experimental — including Soft Light translucent midi), `overalls/` (1, Experimental).
 
 ### Outerwear (`/outerwear/`)
-**Built: 11 items.**
-- **Structured layers** — cropped denim jacket (Phase 1), lightweight trench (Phase 2), hardware-detailed moto jacket (Phase 3 statement, chain-link trim in silver only per the color system), lightweight tailored blazer (Phase 2 High — dressier structure without moto heat), wool wrap / winter coat (Phase 2 High Soft Cold), soft formal suit + evening wrap (Soft Formal).
-- **Soft layers** — chunky knit cardigan (Phase 1), quilted vest (Phase 2, soft-technical).
+**Built: 11 items, every one now with its own full `vision.md` + `manufacturing-brief.md`** (see [`outerwear/README.md`](outerwear/README.md) for the complete named list) — the second category besides shoes and dresses to reach full coverage rather than a single flagship item.
+- **Structured layers** — cropped denim jacket (Phase 1), lightweight trench (Phase 2), hardware-detailed moto jacket (Phase 3 statement, chain-link trim commissioned to match Starlink One's own scale, silver only per the color system), lightweight tailored blazer (Phase 2 High — dressier structure without moto heat, unlined/half-lined by design), wool wrap / winter coat (Phase 2 High Soft Cold), soft formal suit + evening wrap (Soft Formal — pick the suit or the Cocktail/Evening Dress first, not both on day one).
+- **Soft layers** — chunky knit cardigan (Phase 1, the single highest ring-visibility risk item in the system given how knit bulk swallows the hand), quilted vest (Phase 2, soft-technical, the one outerwear piece with no sleeve at all and therefore no ring-visibility risk to solve for).
 - **Romantic layers** — kimono duster (Phase 2) — the outerwear subcategory pulling most directly from the LoveShackFancy reference.
-- **Soft Light** — sheer organza duster (Experimental) — translucent veil outerwear per [`translucent-system.md`](translucent-system.md).
+- **Soft Light** — sheer organza duster (Experimental) — translucent veil outerwear per [`translucent-system.md`](translucent-system.md), pure veil with no opacity of its own, unlike the Sheer Overlay Dress's attached underlayer.
 
 ### Shoes (`/shoes/`)
 **Built: the full 14-shoe catalogue + the Soft Structure jelly sub-line** (see [`shoes/README.md`](shoes/README.md) for the complete named list). Every one fit-checked against a 64" frame (heel height changes leg-line math more at this height than at a taller one, so it's documented per item, not assumed), and every one of the 14 numbered items now has its own full `vision.md` + `manufacturing-brief.md`, not just a single concept note:

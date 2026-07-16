@@ -1,5 +1,7 @@
 # Lightweight Tailored Blazer
 
+*Now has a full vision doc + manufacturing brief — see [`tailored-blazer/`](tailored-blazer/).*
+
 **Category:** Outerwear  
 **Subcategory:** Structured — Lightweight Tailored Blazer  
 **Priority:** High  

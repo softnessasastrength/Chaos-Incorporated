@@ -1,5 +1,7 @@
 # Lightweight Trench
 
+*Now has a full vision doc + manufacturing brief — see [`lightweight-trench/`](lightweight-trench/).*
+
 **Category:** Outerwear
 **Subcategory:** Structured — Lightweight Trench
 **Priority:** Medium

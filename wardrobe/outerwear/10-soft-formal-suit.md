@@ -1,5 +1,7 @@
 # Soft Formal Suit
 
+*Now has a full vision doc + manufacturing brief — see [`soft-formal-suit/`](soft-formal-suit/).*
+
 **Category:** Outerwear (suit set — blazer + bottom filed here as one system piece)  
 **Subcategory:** Soft Formal — Matching Suit  
 **Priority:** Medium  

@@ -1,5 +1,7 @@
 # Sheer Organza Duster
 
+*Now has a full vision doc + manufacturing brief — see [`sheer-organza-duster/`](sheer-organza-duster/).*
+
 **Category:** Outerwear  
 **Subcategory:** Translucent — Sheer Organza Duster  
 **Priority:** Experimental  

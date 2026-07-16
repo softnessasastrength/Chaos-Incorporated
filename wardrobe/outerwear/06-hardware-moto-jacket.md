@@ -1,5 +1,7 @@
 # Hardware-Detailed Moto Jacket
 
+*Now has a full vision doc + manufacturing brief — see [`hardware-moto-jacket/`](hardware-moto-jacket/).*
+
 **Category:** Outerwear
 **Subcategory:** Statement — Hardware-Detailed Moto Jacket
 **Priority:** Experimental (Phase 3 Statement)

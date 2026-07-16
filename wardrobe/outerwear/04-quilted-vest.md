@@ -1,5 +1,7 @@
 # Quilted Vest
 
+*Now has a full vision doc + manufacturing brief — see [`quilted-vest/`](quilted-vest/).*
+
 **Category:** Outerwear
 **Subcategory:** Soft-Technical — Quilted Vest
 **Priority:** Medium

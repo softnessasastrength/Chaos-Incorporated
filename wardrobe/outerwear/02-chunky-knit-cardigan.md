@@ -1,5 +1,7 @@
 # Chunky Knit Cardigan
 
+*Now has a full vision doc + manufacturing brief — see [`chunky-knit-cardigan/`](chunky-knit-cardigan/).*
+
 **Category:** Outerwear
 **Subcategory:** Soft — Chunky Cardigan
 **Priority:** Must-Have

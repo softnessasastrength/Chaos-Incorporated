@@ -1,5 +1,7 @@
 # Kimono Duster
 
+*Now has a full vision doc + manufacturing brief — see [`kimono-duster/`](kimono-duster/).*
+
 **Category:** Outerwear
 **Subcategory:** Romantic — Kimono Duster
 **Priority:** High

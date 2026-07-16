@@ -1,5 +1,7 @@
 # Wool Wrap / Winter Coat
 
+*Now has a full vision doc + manufacturing brief — see [`wool-wrap-coat/`](wool-wrap-coat/).*
+
 **Category:** Outerwear  
 **Subcategory:** Structured — Cold-Weather Coat  
 **Priority:** High  

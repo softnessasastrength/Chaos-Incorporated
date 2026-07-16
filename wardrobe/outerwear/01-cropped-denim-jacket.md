@@ -1,5 +1,7 @@
 # Cropped Denim Jacket
 
+*Now has a full vision doc + manufacturing brief — see [`cropped-denim-jacket/`](cropped-denim-jacket/).*
+
 **Category:** Outerwear
 **Subcategory:** Structured — Denim Jacket
 **Priority:** Must-Have

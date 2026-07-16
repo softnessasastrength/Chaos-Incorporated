@@ -1,5 +1,7 @@
 # Evening Wrap / Dressy Coat
 
+*Now has a full vision doc + manufacturing brief — see [`evening-wrap-coat/`](evening-wrap-coat/).*
+
 **Category:** Outerwear  
 **Subcategory:** Soft Formal — Arrival Layer  
 **Priority:** Medium  
