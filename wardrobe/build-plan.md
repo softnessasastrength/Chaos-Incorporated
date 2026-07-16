@@ -43,8 +43,13 @@ Phases are about *sequence*, not exclusively priority tier — Phase 1 is "what 
 | **Bottoms** | Built | Wide-leg tailored trouser + straight-leg ponte trouser (`trousers/`), tapered jogger (new `joggers/` folder). Colorway expansion across existing jeans/leggings was not done piece-by-piece — most items already draw from the palette; see `color-system.md`'s "Breaking the Palette" note for the few that don't. |
 | **Tops** | Built | 4 more `intricate/` pieces: puff-sleeve blouse, smocked top, ribbon-tie camisole, tiered ruffle top — exactly the scope named here, including the two signature LoveShackFancy pieces (puff sleeve, smocking) the Core Aesthetic Vision named but Phase 1 hadn't built yet. |
 | **Outerwear** | Built | Kimono duster, quilted vest, lightweight trench — all three. |
-| **Shoes** | Built | Ribbon-tie sandal, knee-high boot (second boot option). |
+| **Shoes** | Built | Ribbon-tie sandal, knee-high boot (second boot option). **Plus (added post-Phase-2 map):** Soft Structure jelly line under `shoes/jelly/` — Experimental seasonal sub-line, five silhouettes documented; **source only after Phase 1 Must-Have shoes and the Barely There sandal are in motion**, hero everyday jelly flat first. |
 | **Accessories** | Built | Chain-link belt, hair ribbons & scrunchies, everyday scarf. |
+| **Soft Light (translucent)** | Built (docs) | Cross-category Experimental register — doctrine in `translucent-system.md`; kit = sheer long-sleeve base, organza blouse, lace panel cami, translucent midi, sheer organza duster, sheer overlay dress; full looks 04–07. **Source after Phase 1 Must-Haves and core basics;** opacity map non-negotiable. |
+| **Soft Heat (warm season)** | Built (docs) | Capsule map in `warm-season-system.md` — ties jelly + Soft Light + soft day dress + lightweight blazer + statement bag; full looks 04–08. **Source after Phase 1 Must-Haves.** |
+| **Soft Cold (cold season)** | Built (docs) | Capsule map in `cold-season-system.md` — turtleneck, wool wrap coat, soft gloves + existing fleece legging / rain boot / scarf; full looks 09–10. **Source after Phase 1 Must-Haves.** |
+| **Shopping shortlists** | Built | Phase 1 + Soft Light + Soft Heat + Soft Cold + Soft Formal brand buy waves (`phase-1-shopping-shortlist.md`, `soft-*-shopping-shortlist.md`). |
+| **Soft Formal** | Built (docs) | Event-layer doctrine in `formal-system.md` — midi, cocktail, suit, evening wrap, clutch, long dress Experimental; full looks 11–13. **Source after Phase 1 and elevated day pieces.** |
 
 ### Phase 3 — Statement Pieces
 *Goal: the pieces that make this specifically Renn's wardrobe and specifically Chaos Incorporated — lower quantity, higher intentionality, most directly tied to the ring.*
@@ -72,4 +77,4 @@ All three phases are now built. For reference, the sequence actually followed:
 7. ~~**Phase 2 expansion**~~ — done, all five categories
 8. ~~**Phase 3**~~ — done, all five categories plus the new Dresses category
 
-**What's actually validated vs. aspirational:** every item in this system is still a *Concept* or *Sourcing* status — nothing has been physically fitted, purchased, or worn yet. "Built" above means the design/spec/documentation work is done, not that the wardrobe physically exists. The next real milestone isn't more files — it's sourcing and physically fitting the Phase 1 pieces against Renn's actual body, which is the only way to validate any of the 64"-frame proportion reasoning in these files against reality.
+**What's actually validated vs. aspirational:** every item in this system is still a *Concept* or *Sourcing* status — nothing has been physically fitted, purchased, or worn yet. "Built" above means the design/spec/documentation work is done, not that the wardrobe physically exists. The next real milestone isn't more files — it's sourcing and physically fitting the Phase 1 pieces against Renn's actual body, which is the only way to validate any of the 64"-frame proportion reasoning in these files against reality. Start with [`phase-1-shopping-shortlist.md`](phase-1-shopping-shortlist.md) (buy wave A).

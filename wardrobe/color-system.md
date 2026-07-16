@@ -45,6 +45,10 @@ The ring is small, saturated, and metal-forward — it needs to read as a highli
 - **Use with intention, not as a base:** Periwinkle and Midnight Navy are saturated/dark enough to pull focus if worn as a large block near the hands (e.g., a sleeve). Fine as a base layer elsewhere in the outfit; keep the hand/wrist area (cuffs, sleeve trim) in a quieter color when the ring is meant to be the detail people notice.
 - **Never:** gold, rose gold, or warm brass hardware anywhere in the system — it will visibly clash with both the cool undertone and the sterling silver of the ring.
 
+## Translucent Color (Soft Light)
+
+Sheer and translucent garments use these same nine colors as **light filters**, not a separate palette. Opacity zones, one-loud-Emerald rules, and layering requirements live in [`translucent-system.md`](translucent-system.md). Soft Structure jelly footwear uses translucent palette colorways under the same closed-list discipline — see [`shoes/jelly/README.md`](shoes/jelly/README.md).
+
 ## Breaking the Palette
 
 The palette is closed but not a prison. A piece can use an off-palette color when:
