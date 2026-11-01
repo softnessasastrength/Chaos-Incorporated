@@ -30,3 +30,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Emerald Light](06-emerald-light.png) — single translucent emerald duster over opaque ivory base; concept only.
 
 - [Evening Veil](07-evening-veil.png) — lavender sheer sleeves over opaque base and navy trousers; concept only.
+
+- [Blazer Elevated Day](08-blazer-elevated-day.png) — blush day dress under cropped grey tailoring; concept only.
