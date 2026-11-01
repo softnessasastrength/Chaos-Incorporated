@@ -22,3 +22,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Soft Errand Day](02-soft-errand-day.png) — forest leggings, grey crewneck, ivory sneakers and structured crossbody, concept only.
 
 - [Statement Going-Out](03-statement-going-out.png) — emerald cocktail dress, black moto, silver hardware, concept only.
+
+- [Soft Structure Translucent Day](04-soft-structure-translucent-day.png) — opaque tank under sheer layer, linen shorts and emerald jelly flats, concept only.
