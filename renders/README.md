@@ -32,3 +32,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Evening Veil](07-evening-veil.png) — lavender sheer sleeves over opaque base and navy trousers; concept only.
 
 - [Blazer Elevated Day](08-blazer-elevated-day.png) — blush day dress under cropped grey tailoring; concept only.
+
+- [Cold Errand Day](09-cold-errand-day.png) — navy wrap coat, grey turtleneck, practical boots, ivory scarf; concept only.
