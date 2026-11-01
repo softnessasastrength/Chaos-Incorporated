@@ -14,3 +14,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Soft Heat capsule](soft-heat-capsule.png) — warm-weather base with playful jelly footwear, concept only.
 
 - [Soft Cold capsule](soft-cold-capsule.png) — petite winter layers, silver details, and visible Starlink One; concept only.
+
+- [Everyday Errands](01-everyday-errands.png) — deep green leggings, ivory tank, cropped denim jacket, concept only.
