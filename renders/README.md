@@ -36,3 +36,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Cold Errand Day](09-cold-errand-day.png) — navy wrap coat, grey turtleneck, practical boots, ivory scarf; concept only.
 
 - [Cold Elevated Day](10-cold-elevated-day.png) — ivory turtleneck, tailored trousers, grey wool coat and knee boots; concept only.
+
+- [Warm Hug — Closed Box](warm-hug-closed-box.png) — matte Cloud Ivory rigid box with blush ribbon, concept only.
