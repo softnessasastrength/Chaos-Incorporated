@@ -20,3 +20,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Structured Everyday](01-structured-everyday.png) — contrasting black denim jacket and mid-blue jeans, concept only.
 
 - [Soft Errand Day](02-soft-errand-day.png) — forest leggings, grey crewneck, ivory sneakers and structured crossbody, concept only.
+
+- [Statement Going-Out](03-statement-going-out.png) — emerald cocktail dress, black moto, silver hardware, concept only.
