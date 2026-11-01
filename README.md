@@ -17,3 +17,7 @@ This repository contains all custom designs, wardrobe planning, technical specif
 - `/packaging/` — Unboxing experience and manufacturing spec
 - `/watch/` — Starlink Watch design concept
 - `/objects/` — Future custom objects (pen, etc.)
+
+## Concept Renders
+
+Visual concept renders for Starlink One and the wardrobe capsules are collected in [renders/](renders/README.md). These images are visual direction only, not manufacturing specifications.
