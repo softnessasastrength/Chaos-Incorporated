@@ -5,6 +5,7 @@ A mechanical watch for the Chaos Incorporated universe — Apple Watch silhouett
 Start here:
 1. [`starlink-watch-vision.md`](starlink-watch-vision.md) — the foundational vision document covering case, dial, movement, hands, crown, color, and strap system
 2. [`technical-specs.md`](technical-specs.md) — the manufacturing brief for factory quoting and prototyping: dimensions, tolerances, movement spec, and critical technical challenges
+3. [`factory-feasibility-rfq.md`](factory-feasibility-rfq.md) — supplier-facing request for a DFM review, itemized prototype quote, and written list of open engineering decisions
 
 ## Status
 Vision approved; technical brief drafted for initial factory conversation. No CAD, no movement sourcing, no factory engagement yet — `technical-specs.md` Section 15 lists exactly what needs factory input before anything moves to tooling. Several corrections and refinements were made going from vision to technical spec (see `technical-specs.md` Section 11 for one example) — normal when a concept gets real engineering scrutiny for the first time.
