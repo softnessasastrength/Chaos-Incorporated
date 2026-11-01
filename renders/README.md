@@ -6,3 +6,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Soft Formal wedding guest](soft-formal-wedding-guest-concept.png) — Blush Mauve midi direction with silver accessories and Starlink One as a small emerald accent. Follows the soft wedding guest look; confirm fit, length, fabric, and construction before production.
 
 - [Emerald Ceremony](soft-formal-emerald-ceremony.png) — Emerald midi with black formal accessories and Starlink One; concept only.
+
+- [Black-Tie Optional Suit](soft-formal-black-tie-suit.png) — Midnight Navy matching suit, ivory cami, silver accents, and optional emerald pendant; concept only.
