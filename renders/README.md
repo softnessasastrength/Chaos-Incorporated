@@ -38,3 +38,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Cold Elevated Day](10-cold-elevated-day.png) — ivory turtleneck, tailored trousers, grey wool coat and knee boots; concept only.
 
 - [Starlink Watch — Hero](starlink-watch-hero.png) — brushed silver squircle case and open mechanical dial, concept only.
+
+- [Starlink Watch — Open Dial](starlink-watch-open-dial.png) — Cloud Ivory partial dial with heart-curve movement aperture, concept only.
