@@ -28,3 +28,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Romantic Filter](05-romantic-filter.png) — lined mauve sheer blouse, cropped denim, ribbon sandals; concept only.
 
 - [Emerald Light](06-emerald-light.png) — single translucent emerald duster over opaque ivory base; concept only.
+
+- [Evening Veil](07-evening-veil.png) — lavender sheer sleeves over opaque base and navy trousers; concept only.
