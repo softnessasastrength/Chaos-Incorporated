@@ -18,3 +18,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Everyday Errands](01-everyday-errands.png) — deep green leggings, ivory tank, cropped denim jacket, concept only.
 
 - [Structured Everyday](01-structured-everyday.png) — contrasting black denim jacket and mid-blue jeans, concept only.
+
+- [Soft Errand Day](02-soft-errand-day.png) — forest leggings, grey crewneck, ivory sneakers and structured crossbody, concept only.
