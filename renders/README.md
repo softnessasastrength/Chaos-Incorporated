@@ -12,3 +12,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Soft Light capsule](soft-light-capsule.png) — sheer outer layer over opaque base, concept only.
 
 - [Soft Heat capsule](soft-heat-capsule.png) — warm-weather base with playful jelly footwear, concept only.
+
+- [Soft Cold capsule](soft-cold-capsule.png) — petite winter layers, silver details, and visible Starlink One; concept only.
