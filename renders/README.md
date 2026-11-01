@@ -34,3 +34,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Blazer Elevated Day](08-blazer-elevated-day.png) — blush day dress under cropped grey tailoring; concept only.
 
 - [Cold Errand Day](09-cold-errand-day.png) — navy wrap coat, grey turtleneck, practical boots, ivory scarf; concept only.
+
+- [Cold Elevated Day](10-cold-elevated-day.png) — ivory turtleneck, tailored trousers, grey wool coat and knee boots; concept only.
