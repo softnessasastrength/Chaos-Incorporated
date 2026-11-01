@@ -16,3 +16,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Soft Cold capsule](soft-cold-capsule.png) — petite winter layers, silver details, and visible Starlink One; concept only.
 
 - [Everyday Errands](01-everyday-errands.png) — deep green leggings, ivory tank, cropped denim jacket, concept only.
+
+- [Structured Everyday](01-structured-everyday.png) — contrasting black denim jacket and mid-blue jeans, concept only.
