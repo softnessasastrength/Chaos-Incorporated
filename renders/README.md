@@ -10,3 +10,5 @@ These images are visual direction only. They are not manufacturing artwork, appr
 - [Black-Tie Optional Suit](soft-formal-black-tie-suit.png) — Midnight Navy matching suit, ivory cami, silver accents, and optional emerald pendant; concept only.
 
 - [Soft Light capsule](soft-light-capsule.png) — sheer outer layer over opaque base, concept only.
+
+- [Soft Heat capsule](soft-heat-capsule.png) — warm-weather base with playful jelly footwear, concept only.
