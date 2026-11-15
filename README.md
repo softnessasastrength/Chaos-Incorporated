@@ -4,6 +4,8 @@ The official design system for Renn.
 
 This repository contains all custom designs, wardrobe planning, technical specifications, and hyperfixation projects.
 
+> **Note:** The wardrobe system now continues in its own repository, [Fashion](https://github.com/softnessasastrength/Fashion) (spun off 2026-10-31); the `wardrobe/` tree here is the original it was copied from.
+
 ## Current Projects
 - **Starlink One** — Custom heart emerald ring (sterling silver + chain link detail)
 - **Renn Wardrobe** — Full fashion design system (tops, bottoms, shoes, full looks)
